@@ -26,7 +26,7 @@ begin
     ax = Axis(fig[1, 1], xlabel = "n", ylabel = "time (s)", yscale = log10)
     scatter!(ax, ns, time_d3, color = :blue, label = "3 regular graph")
     lines!(ax, ns, exp.(model1(ns, fit.param)), color = :blue, label = nothing, linestyle = :dash)
-    text!(ax, (25, 1e-1), text = L"$T \sim O(%$(fit.param[2] ÷ 0.01 / 100)^n)$")
+    text!(ax, (25, 1e-1), text = L"$T \sim O(%$(exp(fit.param[2]) ÷ 0.01 / 100)^n)$")
 
     scatter!(ax, ns, time_line, color = :red, label = "line graph")
     lines!(ax, ns, exp.(model2(ns, fit_line.param)), color = :red, label = nothing, linestyle = :dash)
