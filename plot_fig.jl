@@ -25,6 +25,9 @@ fit_line = curve_fit(model2, ns, log.(time_line), p0)
 @. model3(x, p) = p[1] + log(x) * p[2]
 fit_tree = curve_fit(model3, ns, log.(time_tree), p0)
 
+@. model4(x, p) = p[1] + x * p[2]
+fit_grid = curve_fit(model4, ns_grid, log.(time_grid), p0)
+
 begin
     fig = Figure(fontsize=20)
     ax = Axis(fig[1, 1], xlabel = "n", ylabel = "time (s)", yscale = log10)
@@ -34,12 +37,14 @@ begin
 
     scatter!(ax, ns, time_line, color = :red, label = "line graph")
     lines!(ax, ns, exp.(model2(ns, fit_line.param)), color = :red, label = nothing, linestyle = :dash)
-    text!(ax, (20, 10^(-3.5)), text = L"$T \sim O(n^{%$(fit_line.param[2] ÷ 0.01 / 100)})$")
+    text!(ax, (25, 10^(-4)), text = L"$T \sim O(n^{%$(fit_line.param[2] ÷ 0.01 / 100)})$")
 
     scatter!(ax, ns, time_tree, color = :green, label = "random tree graph")
     lines!(ax, ns, exp.(model3(ns, fit_tree.param)), color = :green, label = nothing, linestyle = :dash)
 
     scatter!(ax, ns_grid, time_grid, color = :purple, label = "grid graph")
+    lines!(ax, ns_grid, exp.(model4(ns_grid, fit_grid.param)), color = :purple, label = nothing, linestyle = :dash)
+    text!(ax, (23, 1e-3), text = L"$T \sim O(%$(exp(fit_grid.param[2]) ÷ 0.01 / 100)^n)$")
 
     axislegend(ax, position = :lt)
 end
