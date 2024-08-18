@@ -70,7 +70,7 @@ for m in 3:5, n in m:5
         !is_connected(g) && continue
         t_ome, t_to = benchmark_opt(g)
         println("m = $m, n = $n, i = $i, t_ome = $t_ome, t_to = $t_to")
-        df = DataFrame(n=n, t_ome=t_ome, t_to=t_to, type="grid")
+        df = DataFrame(n=nv(g), t_ome=t_ome, t_to=t_to, type="grid")
         CSV.write("data/compare_to.csv", df, append=true)
     end
 end
