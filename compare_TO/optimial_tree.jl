@@ -51,7 +51,7 @@ for n in 10:2:30
     end
 end
 
-for n in 10:2:30
+for n in 10:2:20
     for i in 1:10
         filename = "graphs/d3graphs/n$n-$i.gr"
         g = graph_from_gr(filename)
@@ -62,7 +62,7 @@ for n in 10:2:30
     end
 end
 
-for m in 3:6, n in m:6
+for m in 3:5, n in m:5
     for i in 1:10
         filename = "graphs/gridgraphs/m$m-n$n-i$i.gr"
         g = graph_from_gr(filename)
