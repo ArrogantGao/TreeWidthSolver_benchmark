@@ -5,11 +5,15 @@ using LsqFit, LaTeXStrings
 df_d3 = CSV.read("data/d3graph_tw.csv", DataFrame)
 df_line = CSV.read("data/line_tw.csv", DataFrame)
 df_tree = CSV.read("data/treegraph_tw.csv", DataFrame)
+df_grid = CSV.read("data/gridgraph_tw.csv", DataFrame)
 
 ns = unique(df_d3.n)
 time_d3 = [mean(df_d3[df_d3.n .== n, :t]) for n in ns]
 time_line = [mean(df_line[df_line.n .== n, :t]) for n in ns]
 time_tree = [mean(df_tree[df_tree.n .== n, :t]) for n in ns]
+
+ns_grid = unique(df_grid.n)
+time_grid = [mean(df_grid[df_grid.n .== n, :t]) for n in ns_grid]
 
 @. model1(x, p) = p[1] + x * p[2]
 p0 = [1.0, 1.0]
@@ -34,6 +38,8 @@ begin
 
     scatter!(ax, ns, time_tree, color = :green, label = "random tree graph")
     lines!(ax, ns, exp.(model3(ns, fit_tree.param)), color = :green, label = nothing, linestyle = :dash)
+
+    scatter!(ax, ns_grid, time_grid, color = :purple, label = "grid graph")
 
     axislegend(ax, position = :lt)
 end
