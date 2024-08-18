@@ -14,7 +14,7 @@ for n in 10:2:30
     for i in 1:10
         # generate a random binary tree
         g = random_tree(n)
-        filename = "treegraphs/n$n-$i.gr"
+        filename = "graphs/treegraphs/n$n-$i.gr"
         save_graph(g, filename)
     end
 end
