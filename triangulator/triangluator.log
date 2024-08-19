@@ -1,0 +1,5101 @@
+gridgraphs m3-n3-i10.gr
+PACE graph format detected
+TWPP reducing 7 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n3-i1.gr
+PACE graph format detected
+TWPP reducing 7 0 1 0
+TWPP finished 1 0
+Treewidth: 1
+gridgraphs m3-n3-i2.gr
+PACE graph format detected
+TWPP reducing 7 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n3-i3.gr
+PACE graph format detected
+TWPP reducing 7 0 1 0
+TWPP finished 1 0
+Treewidth: 1
+gridgraphs m3-n3-i4.gr
+PACE graph format detected
+TWPP reducing 7 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n3-i5.gr
+PACE graph format detected
+TWPP reducing 7 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n3-i6.gr
+PACE graph format detected
+TWPP reducing 7 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n3-i7.gr
+PACE graph format detected
+TWPP reducing 7 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n3-i8.gr
+PACE graph format detected
+TWPP reducing 7 0 1 0
+TWPP finished 1 0
+Treewidth: 1
+gridgraphs m3-n3-i9.gr
+PACE graph format detected
+TWPP reducing 7 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n4-i10.gr
+PACE graph format detected
+TWPP reducing 10 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n4-i1.gr
+PACE graph format detected
+TWPP reducing 10 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n4-i2.gr
+PACE graph format detected
+TWPP reducing 10 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n4-i3.gr
+PACE graph format detected
+TWPP reducing 10 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n4-i4.gr
+PACE graph format detected
+TWPP reducing 9 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n4-i5.gr
+PACE graph format detected
+TWPP reducing 10 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n4-i6.gr
+PACE graph format detected
+TWPP reducing 10 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n4-i7.gr
+PACE graph format detected
+TWPP reducing 10 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n4-i8.gr
+PACE graph format detected
+TWPP reducing 10 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n4-i9.gr
+PACE graph format detected
+TWPP reducing 10 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n5-i10.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n5-i1.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n5-i2.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n5-i3.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n5-i4.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n5-i5.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n5-i6.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n5-i7.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP atoms 3
+TWPP reducing 4 0 2 2
+TWPP reducing 9 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m3-n5-i8.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n5-i9.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n6-i10.gr
+PACE graph format detected
+TWPP reducing 13 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n6-i1.gr
+PACE graph format detected
+TWPP reducing 14 0 1 0
+TWPP atoms 4
+TWPP reducing 4 0 2 2
+TWPP reducing 9 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m3-n6-i2.gr
+PACE graph format detected
+TWPP reducing 13 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n6-i3.gr
+PACE graph format detected
+TWPP reducing 14 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n6-i4.gr
+PACE graph format detected
+TWPP reducing 14 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n6-i5.gr
+PACE graph format detected
+TWPP reducing 14 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n6-i6.gr
+PACE graph format detected
+TWPP reducing 14 0 1 0
+TWPP atoms 4
+TWPP reducing 4 0 2 2
+TWPP reducing 9 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m3-n6-i7.gr
+PACE graph format detected
+TWPP reducing 14 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n6-i8.gr
+PACE graph format detected
+TWPP reducing 13 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m3-n6-i9.gr
+PACE graph format detected
+TWPP reducing 14 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m4-n4-i10.gr
+PACE graph format detected
+TWPP reducing 13 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m4-n4-i1.gr
+PACE graph format detected
+TWPP reducing 13 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m4-n4-i2.gr
+PACE graph format detected
+TWPP reducing 13 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m4-n4-i3.gr
+PACE graph format detected
+TWPP reducing 13 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m4-n4-i4.gr
+PACE graph format detected
+TWPP reducing 13 0 1 0
+TWPP atoms 2
+TWPP reducing 4 0 2 2
+TWPP reducing 11 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m4-n4-i5.gr
+PACE graph format detected
+TWPP reducing 13 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m4-n4-i6.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m4-n4-i7.gr
+PACE graph format detected
+TWPP reducing 13 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m4-n4-i8.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m4-n4-i9.gr
+PACE graph format detected
+TWPP reducing 13 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m4-n5-i10.gr
+PACE graph format detected
+TWPP reducing 16 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m4-n5-i1.gr
+PACE graph format detected
+TWPP reducing 16 0 1 0
+TWPP atoms 6
+TWPP reducing 4 0 2 2
+TWPP reducing 9 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m4-n5-i2.gr
+PACE graph format detected
+TWPP reducing 16 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m4-n5-i3.gr
+PACE graph format detected
+TWPP reducing 15 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m4-n5-i4.gr
+PACE graph format detected
+TWPP reducing 16 0 1 0
+TWPP atoms 2
+TWPP reducing 15 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m4-n5-i5.gr
+PACE graph format detected
+TWPP reducing 15 0 1 0
+TWPP atoms 3
+TWPP reducing 4 0 2 2
+TWPP reducing 12 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m4-n5-i6.gr
+PACE graph format detected
+TWPP reducing 16 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m4-n5-i7.gr
+PACE graph format detected
+TWPP reducing 16 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m4-n5-i8.gr
+PACE graph format detected
+TWPP reducing 16 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m4-n5-i9.gr
+PACE graph format detected
+TWPP reducing 16 0 1 0
+TWPP atoms 5
+TWPP reducing 4 0 3 2
+TWPP reducing 9 0 2 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 4 0 1 3
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m4-n6-i10.gr
+PACE graph format detected
+TWPP reducing 19 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m4-n6-i1.gr
+PACE graph format detected
+TWPP reducing 19 0 1 0
+TWPP atoms 8
+TWPP reducing 12 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m4-n6-i2.gr
+PACE graph format detected
+TWPP reducing 19 0 1 0
+TWPP atoms 4
+TWPP reducing 16 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m4-n6-i3.gr
+PACE graph format detected
+TWPP reducing 19 0 1 0
+TWPP atoms 9
+TWPP reducing 4 0 2 2
+TWPP reducing 9 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m4-n6-i4.gr
+PACE graph format detected
+TWPP reducing 18 0 1 0
+TWPP atoms 7
+TWPP reducing 12 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m4-n6-i5.gr
+PACE graph format detected
+TWPP reducing 19 0 1 0
+TWPP atoms 2
+TWPP reducing 18 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m4-n6-i6.gr
+PACE graph format detected
+TWPP reducing 19 0 1 0
+TWPP atoms 2
+TWPP reducing 4 0 2 2
+TWPP reducing 17 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m4-n6-i7.gr
+PACE graph format detected
+TWPP reducing 19 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m4-n6-i8.gr
+PACE graph format detected
+TWPP reducing 19 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m4-n6-i9.gr
+PACE graph format detected
+TWPP reducing 19 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m5-n5-i10.gr
+PACE graph format detected
+TWPP reducing 20 0 1 0
+TWPP atoms 6
+TWPP reducing 15 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m5-n5-i1.gr
+PACE graph format detected
+TWPP reducing 20 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m5-n5-i2.gr
+PACE graph format detected
+TWPP reducing 20 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m5-n5-i3.gr
+PACE graph format detected
+TWPP reducing 20 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m5-n5-i4.gr
+PACE graph format detected
+TWPP reducing 19 0 1 0
+TWPP atoms 7
+TWPP reducing 4 0 5 2
+TWPP reducing 4 0 4 2
+TWPP reducing 4 0 3 2
+TWPP reducing 9 0 2 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 4 0 1 3
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m5-n5-i5.gr
+PACE graph format detected
+TWPP reducing 20 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m5-n5-i6.gr
+PACE graph format detected
+TWPP reducing 20 0 1 0
+TWPP atoms 7
+TWPP reducing 4 0 3 2
+TWPP reducing 4 0 2 2
+TWPP reducing 11 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m5-n5-i7.gr
+PACE graph format detected
+TWPP reducing 20 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m5-n5-i8.gr
+PACE graph format detected
+TWPP reducing 20 0 1 0
+TWPP atoms 12
+TWPP reducing 9 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m5-n5-i9.gr
+PACE graph format detected
+TWPP reducing 20 0 1 0
+TWPP atoms 9
+TWPP reducing 4 0 3 2
+TWPP reducing 4 0 2 2
+TWPP reducing 9 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m5-n6-i10.gr
+PACE graph format detected
+TWPP reducing 24 0 1 0
+TWPP atoms 8
+TWPP reducing 4 0 4 2
+TWPP reducing 4 0 3 2
+TWPP reducing 4 0 2 2
+TWPP reducing 12 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m5-n6-i1.gr
+PACE graph format detected
+TWPP reducing 24 0 1 0
+TWPP atoms 8
+TWPP reducing 4 0 4 2
+TWPP reducing 12 0 3 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 4 0 2 3
+TWPP reducing 4 0 1 3
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m5-n6-i2.gr
+PACE graph format detected
+TWPP reducing 24 0 1 0
+TWPP atoms 6
+TWPP reducing 4 0 4 2
+TWPP reducing 4 0 3 2
+TWPP reducing 4 0 2 2
+TWPP reducing 15 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m5-n6-i3.gr
+PACE graph format detected
+TWPP reducing 24 0 1 0
+TWPP atoms 5
+TWPP reducing 4 0 2 2
+TWPP reducing 19 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m5-n6-i4.gr
+PACE graph format detected
+TWPP reducing 24 0 1 0
+TWPP atoms 4
+TWPP reducing 4 0 3 2
+TWPP reducing 4 0 2 2
+TWPP reducing 19 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 8 0 1 3
+TWPP finished 4 0
+Treewidth: 4
+gridgraphs m5-n6-i5.gr
+PACE graph format detected
+TWPP reducing 24 0 1 0
+TWPP atoms 5
+TWPP reducing 19 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m5-n6-i6.gr
+PACE graph format detected
+TWPP reducing 24 0 1 0
+TWPP atoms 7
+TWPP reducing 4 0 2 2
+TWPP reducing 17 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m5-n6-i7.gr
+PACE graph format detected
+TWPP reducing 24 0 1 0
+TWPP atoms 10
+TWPP reducing 4 0 6 2
+TWPP reducing 9 0 5 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 4 0 4 3
+TWPP reducing 4 0 3 3
+TWPP reducing 4 0 2 3
+TWPP reducing 4 0 1 3
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m5-n6-i8.gr
+PACE graph format detected
+TWPP reducing 24 0 1 0
+TWPP finished 2 0
+Treewidth: 2
+gridgraphs m5-n6-i9.gr
+PACE graph format detected
+TWPP reducing 23 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m6-n6-i10.gr
+PACE graph format detected
+TWPP reducing 29 0 1 0
+TWPP atoms 9
+TWPP reducing 4 0 5 2
+TWPP reducing 4 0 4 2
+TWPP reducing 4 0 3 2
+TWPP reducing 4 0 2 2
+TWPP reducing 17 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m6-n6-i1.gr
+PACE graph format detected
+TWPP reducing 29 0 1 0
+TWPP atoms 8
+TWPP reducing 4 0 4 2
+TWPP reducing 4 0 3 2
+TWPP reducing 4 0 2 2
+TWPP reducing 17 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m6-n6-i2.gr
+PACE graph format detected
+TWPP reducing 28 0 1 0
+TWPP atoms 6
+TWPP reducing 4 0 4 2
+TWPP reducing 4 0 3 2
+TWPP reducing 4 0 2 2
+TWPP reducing 19 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 6 0 1 3
+TWPP finished 4 0
+Treewidth: 4
+gridgraphs m6-n6-i3.gr
+PACE graph format detected
+TWPP reducing 29 0 1 0
+TWPP atoms 4
+TWPP reducing 4 0 2 2
+TWPP reducing 25 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 9 0 1 3
+TWPP atoms 1
+TWPP finished 4 0
+Treewidth: 4
+gridgraphs m6-n6-i4.gr
+PACE graph format detected
+TWPP reducing 29 0 1 0
+TWPP atoms 9
+TWPP reducing 4 0 4 2
+TWPP reducing 11 0 3 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 11 0 2 3
+TWPP reducing 4 0 1 3
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m6-n6-i5.gr
+PACE graph format detected
+TWPP reducing 28 0 1 0
+TWPP atoms 2
+TWPP reducing 27 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 6 0 1 3
+TWPP finished 4 0
+Treewidth: 4
+gridgraphs m6-n6-i6.gr
+PACE graph format detected
+TWPP reducing 29 0 1 0
+TWPP atoms 4
+TWPP reducing 4 0 2 2
+TWPP reducing 25 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 6 0 1 3
+TWPP finished 4 0
+Treewidth: 4
+gridgraphs m6-n6-i7.gr
+PACE graph format detected
+TWPP reducing 29 0 1 0
+TWPP atoms 5
+TWPP reducing 4 0 2 2
+TWPP reducing 24 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+gridgraphs m6-n6-i8.gr
+PACE graph format detected
+TWPP reducing 29 0 1 0
+TWPP atoms 10
+TWPP reducing 4 0 4 2
+TWPP reducing 4 0 3 2
+TWPP reducing 4 0 2 2
+TWPP reducing 16 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 8 0 1 3
+TWPP finished 4 0
+Treewidth: 4
+gridgraphs m6-n6-i9.gr
+PACE graph format detected
+TWPP reducing 28 0 1 0
+TWPP atoms 3
+TWPP reducing 26 0 1 2
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+d3graphs n10-10.gr
+PACE graph format detected
+TWPP reducing 10 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+d3graphs n10-1.gr
+PACE graph format detected
+TWPP reducing 10 0 1 0
+TWPP finished 3 0
+Treewidth: 3
+d3graphs n10-2.gr
+PACE graph format detected
+TWPP reducing 10 0 1 0
+TWPP finished 3 0
+Treewidth: 3
+d3graphs n10-3.gr
+PACE graph format detected
+TWPP reducing 10 0 1 0
+TWPP finished 3 0
+Treewidth: 3
+d3graphs n10-4.gr
+PACE graph format detected
+TWPP reducing 10 0 1 0
+TWPP finished 3 0
+Treewidth: 3
+d3graphs n10-5.gr
+PACE graph format detected
+TWPP reducing 10 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+d3graphs n10-6.gr
+PACE graph format detected
+TWPP reducing 10 0 1 0
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 10 15 3 4
+Advanced 10 15
+allminseps 0 10 0
+allminseps 10 25 0.4
+allminseps 20 35 0.571429
+allminseps 30 35 0.857143
+MSTIME 5.5814e-05 97
+Enum minseps 35
+IMS timer 6.5253e-05
+Enum.. 9 35 1 13 16
+Enum.. 8 19 15 3 6
+Enum.. 7 13 21 4 7
+Enum.. 6 6 1 0 1
+Enum.. 5 5 3 1 2
+Enum.. 4 3 1 0 1
+Enum.. 3 2 2 1 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000196117
+Dfss 47/39
+Crosses 39/53
+Gos 53/1225
+Pre timer 3.1499e-05
+Rec timer 1.1153e-05
+MS timer 2.1169e-05
+O timer 5.29e-06
+Grow timer 1.091e-05
+IMS timer 6.5253e-05
+PMCS 10
+bt time 1.5619e-05
+bt -1 0
+Treewidth: 4
+d3graphs n10-7.gr
+PACE graph format detected
+TWPP reducing 10 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+d3graphs n10-8.gr
+PACE graph format detected
+TWPP reducing 10 0 1 0
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 10 15 3 4
+Advanced 10 15
+allminseps 0 10 0
+allminseps 10 23 0.434783
+allminseps 20 25 0.8
+MSTIME 4.268e-05 97
+Enum minseps 25
+IMS timer 5.1357e-05
+Enum.. 9 25 1 10 8
+Enum.. 8 17 8 2 4
+Enum.. 7 13 8 4 3
+Enum.. 6 9 10 3 3
+Enum.. 5 6 1 0 1
+Enum.. 4 5 7 2 3
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00018711
+Dfss 40/30
+Crosses 30/43
+Gos 43/625
+Pre timer 2.1983e-05
+Rec timer 8.795e-06
+MS timer 1.9646e-05
+O timer 4.71e-06
+Grow timer 1.11e-05
+IMS timer 5.1357e-05
+PMCS 10
+bt time 1.4186e-05
+bt -1 0
+Treewidth: 4
+d3graphs n10-9.gr
+PACE graph format detected
+TWPP reducing 10 0 1 0
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 10 15 3 4
+Advanced 10 15
+allminseps 0 10 0
+allminseps 10 25 0.4
+allminseps 20 35 0.571429
+allminseps 30 35 0.857143
+MSTIME 4.7439e-05 97
+Enum minseps 35
+IMS timer 5.3651e-05
+Enum.. 9 35 1 13 15
+Enum.. 8 20 15 4 6
+Enum.. 7 14 21 4 6
+Enum.. 6 8 3 1 2
+Enum.. 5 6 1 0 1
+Enum.. 4 5 7 2 3
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00020298
+Dfss 55/43
+Crosses 43/58
+Gos 58/1225
+Pre timer 2.9776e-05
+Rec timer 1.1892e-05
+MS timer 2.3453e-05
+O timer 4.679e-06
+Grow timer 1.2401e-05
+IMS timer 5.3651e-05
+PMCS 10
+bt time 1.3666e-05
+bt -1 0
+Treewidth: 4
+d3graphs n12-10.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 4 0
+Treewidth: 4
+d3graphs n12-1.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 8 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 8 12 3 4
+Advanced 8 12
+allminseps 0 8 0
+MSTIME 1.6391e-05 41
+Enum minseps 10
+IMS timer 2.7191e-05
+Enum.. 7 10 1 4 2
+Enum.. 6 8 8 3 3
+Enum.. 5 5 3 1 2
+Enum.. 4 3 2 1 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00011749
+Dfss 12/11
+Crosses 11/16
+Gos 16/100
+Pre timer 8.417e-06
+Rec timer 3.605e-06
+MS timer 7.572e-06
+O timer 2.566e-06
+Grow timer 4.909e-06
+IMS timer 2.7191e-05
+PMCS 8
+bt time 1.1602e-05
+bt -1 0
+Treewidth: 4
+d3graphs n12-2.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+d3graphs n12-3.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+d3graphs n12-4.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 7 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 7 13 3 4
+Advanced 7 13
+allminseps 0 5 0
+MSTIME 1.4157e-05 17
+Enum minseps 5
+IMS timer 2.0067e-05
+Enum.. 6 5 1 2 2
+Enum.. 5 3 1 1 1
+Enum.. 4 2 2 1 1
+Enum.. 3 1 1 0 1
+Enum.. 2 0 0 0 0
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 9.4206e-05
+Dfss 1/4
+Crosses 4/4
+Gos 4/25
+Pre timer 3.957e-06
+Rec timer 1.112e-06
+MS timer 2.675e-06
+O timer 1.513e-06
+Grow timer 2.615e-06
+IMS timer 2.0067e-05
+PMCS 2
+bt time 4.479e-06
+bt -1 0
+Treewidth: 4
+d3graphs n12-5.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+d3graphs n12-6.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 12 18 3 4
+Advanced 12 18
+allminseps 0 12 0
+allminseps 10 29 0.344828
+allminseps 20 52 0.384615
+allminseps 30 66 0.454545
+allminseps 40 68 0.588235
+allminseps 50 68 0.735294
+allminseps 60 68 0.882353
+MSTIME 8.9127e-05 257
+Enum minseps 68
+IMS timer 9.646e-05
+Enum.. 11 68 1 24 32
+Enum.. 10 36 36 9 19
+Enum.. 9 17 3 1 2
+Enum.. 8 15 1 0 1
+Enum.. 7 14 26 4 8
+Enum.. 6 6 1 0 1
+Enum.. 5 5 3 1 2
+Enum.. 4 3 1 0 1
+Enum.. 3 2 2 1 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000320861
+Dfss 119/84
+Crosses 84/121
+Gos 121/4624
+Pre timer 6.42e-05
+Rec timer 2.4325e-05
+MS timer 4.3384e-05
+O timer 6.842e-06
+Grow timer 2.1883e-05
+IMS timer 9.646e-05
+PMCS 12
+bt time 1.7002e-05
+bt -1 0
+Treewidth: 4
+d3graphs n12-7.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 12 18 3 4
+Advanced 12 18
+allminseps 0 12 0
+allminseps 10 30 0.333333
+allminseps 20 50 0.4
+allminseps 30 60 0.5
+allminseps 40 66 0.606061
+allminseps 50 69 0.724638
+allminseps 60 69 0.869565
+MSTIME 9.0089e-05 257
+Enum minseps 69
+IMS timer 9.6361e-05
+Enum.. 11 69 1 22 33
+Enum.. 10 36 58 9 25
+Enum.. 9 11 3 1 2
+Enum.. 8 9 1 0 1
+Enum.. 7 8 3 1 2
+Enum.. 6 6 1 0 1
+Enum.. 5 5 3 1 2
+Enum.. 4 3 1 0 1
+Enum.. 3 2 2 1 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00030969
+Dfss 142/99
+Crosses 99/152
+Gos 152/4761
+Pre timer 6.388e-05
+Rec timer 2.7192e-05
+MS timer 3.911e-05
+O timer 6.091e-06
+Grow timer 1.7014e-05
+IMS timer 9.6361e-05
+PMCS 12
+bt time 1.6831e-05
+bt -1 0
+Treewidth: 4
+d3graphs n12-8.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 8 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 8 14 3 4
+Advanced 8 14
+allminseps 0 7 0
+MSTIME 1.4647e-05 19
+Enum minseps 7
+IMS timer 1.9587e-05
+Enum.. 7 7 1 2 2
+Enum.. 6 5 3 2 1
+Enum.. 5 4 3 1 2
+Enum.. 4 2 2 1 1
+Enum.. 3 1 1 0 1
+Enum.. 2 0 0 0 0
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000103794
+Dfss 7/6
+Crosses 6/7
+Gos 7/49
+Pre timer 6.693e-06
+Rec timer 2.154e-06
+MS timer 5.051e-06
+O timer 2.195e-06
+Grow timer 4.028e-06
+IMS timer 1.9587e-05
+PMCS 4
+bt time 7.124e-06
+bt -1 0
+Treewidth: 4
+d3graphs n12-9.gr
+PACE graph format detected
+TWPP reducing 12 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 9 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 9 15 3 4
+Advanced 9 15
+allminseps 0 9 0
+allminseps 10 13 0.769231
+MSTIME 2.4967e-05 47
+Enum minseps 13
+IMS timer 2.9655e-05
+Enum.. 8 13 1 3 4
+Enum.. 7 9 3 3 2
+Enum.. 6 7 3 1 2
+Enum.. 5 5 5 2 2
+Enum.. 4 3 2 1 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00014439
+Dfss 12/11
+Crosses 11/13
+Gos 13/169
+Pre timer 1.1882e-05
+Rec timer 3.927e-06
+MS timer 1.05e-05
+O timer 3.025e-06
+Grow timer 6.441e-06
+IMS timer 2.9655e-05
+PMCS 6
+bt time 9.237e-06
+bt -1 0
+Treewidth: 4
+d3graphs n14-10.gr
+PACE graph format detected
+TWPP reducing 14 0 1 0
+TWPP finished 3 0
+Treewidth: 3
+d3graphs n14-1.gr
+PACE graph format detected
+TWPP reducing 14 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 4 0
+Treewidth: 4
+d3graphs n14-2.gr
+PACE graph format detected
+TWPP reducing 14 0 1 0
+TWPP finished 3 0
+Treewidth: 3
+d3graphs n14-3.gr
+PACE graph format detected
+TWPP reducing 14 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 4 0
+Treewidth: 4
+d3graphs n14-4.gr
+PACE graph format detected
+TWPP reducing 14 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+d3graphs n14-5.gr
+PACE graph format detected
+TWPP reducing 14 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 4 0
+Treewidth: 4
+d3graphs n14-6.gr
+PACE graph format detected
+TWPP reducing 14 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 4 0
+Treewidth: 4
+d3graphs n14-7.gr
+PACE graph format detected
+TWPP reducing 14 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 4 0
+Treewidth: 4
+d3graphs n14-8.gr
+PACE graph format detected
+TWPP reducing 14 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+d3graphs n14-9.gr
+PACE graph format detected
+TWPP reducing 14 0 1 0
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 14 21 3 4
+Advanced 14 21
+allminseps 0 14 0
+allminseps 10 33 0.30303
+allminseps 20 53 0.377358
+allminseps 30 73 0.410959
+allminseps 40 85 0.470588
+allminseps 50 92 0.543478
+allminseps 60 99 0.606061
+allminseps 70 101 0.693069
+allminseps 80 101 0.792079
+allminseps 90 101 0.891089
+allminseps 100 101 0.990099
+MSTIME 0.000132488 277
+Enum minseps 101
+IMS timer 0.000138139
+Enum.. 13 101 1 35 42
+Enum.. 12 59 22 13 26
+Enum.. 11 32 1 6 0
+Enum.. 10 32 31 6 16
+Enum.. 9 16 1 0 1
+Enum.. 8 15 1 0 1
+Enum.. 7 14 19 5 6
+Enum.. 6 8 8 2 4
+Enum.. 5 4 1 0 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 2 1 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000436357
+Dfss 206/124
+Crosses 124/191
+Gos 191/10201
+Pre timer 0.000110065
+Rec timer 3.766e-05
+MS timer 7.6063e-05
+O timer 1.1062e-05
+Grow timer 3.4955e-05
+IMS timer 0.000138139
+PMCS 14
+bt time 2.0479e-05
+bt -1 0
+Treewidth: 4
+d3graphs n16-10.gr
+PACE graph format detected
+TWPP reducing 16 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 13 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 13 21 3 4
+Advanced 13 21
+allminseps 0 13 0
+allminseps 10 32 0.3125
+allminseps 20 51 0.392157
+allminseps 30 63 0.47619
+allminseps 40 65 0.615385
+allminseps 50 65 0.769231
+allminseps 60 65 0.923077
+MSTIME 9.637e-05 257
+Enum minseps 65
+IMS timer 0.000100989
+Enum.. 12 65 1 21 29
+Enum.. 11 35 3 9 3
+Enum.. 10 32 22 13 12
+Enum.. 9 20 1 0 1
+Enum.. 8 19 14 4 4
+Enum.. 7 14 29 4 9
+Enum.. 6 5 1 0 1
+Enum.. 5 4 1 0 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 2 1 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000322604
+Dfss 108/71
+Crosses 71/106
+Gos 106/4225
+Pre timer 6.3809e-05
+Rec timer 2.114e-05
+MS timer 5.273e-05
+O timer 8.935e-06
+Grow timer 2.9797e-05
+IMS timer 0.000100989
+PMCS 10
+bt time 1.4938e-05
+bt -1 0
+Treewidth: 4
+d3graphs n16-1.gr
+PACE graph format detected
+TWPP reducing 16 0 1 0
+TWPP finished 3 0
+Treewidth: 3
+d3graphs n16-2.gr
+PACE graph format detected
+TWPP reducing 16 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 13 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 13 21 3 5
+Advanced 13 21
+allminseps 0 13 0
+allminseps 10 34 0.294118
+allminseps 20 54 0.37037
+allminseps 30 69 0.434783
+allminseps 40 78 0.512821
+allminseps 50 81 0.617284
+allminseps 60 83 0.722892
+allminseps 70 83 0.843373
+allminseps 80 83 0.963855
+MSTIME 0.000114916 257
+Enum minseps 83
+IMS timer 0.000119604
+Enum.. 12 83 33 26 46
+Enum.. 11 37 24 4 8
+Enum.. 10 29 59 7 14
+Enum.. 9 15 1 0 1
+Enum.. 8 14 15 3 6
+Enum.. 7 8 3 1 2
+Enum.. 6 6 5 2 2
+Enum.. 5 4 1 0 1
+Enum.. 4 3 2 1 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000415508
+Dfss 330/200
+Crosses 200/340
+Gos 340/6889
+Pre timer 8.7273e-05
+Rec timer 6.4001e-05
+MS timer 5.4793e-05
+O timer 1.4747e-05
+Grow timer 2.9635e-05
+IMS timer 0.000119604
+PMCS 72
+bt time 0.000210675
+bt 4 16
+Treewidth: 4
+d3graphs n16-3.gr
+PACE graph format detected
+TWPP reducing 16 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 9 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 9 16 3 4
+Advanced 9 16
+allminseps 0 9 0
+allminseps 10 19 0.526316
+MSTIME 3.198e-05 47
+Enum minseps 19
+IMS timer 3.6749e-05
+Enum.. 8 19 0 10 6
+Enum.. 7 13 8 3 4
+Enum.. 6 9 12 3 4
+Enum.. 5 5 3 1 2
+Enum.. 4 3 1 0 1
+Enum.. 3 2 2 1 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00014951
+Dfss 25/24
+Crosses 24/34
+Gos 34/361
+Pre timer 1.6662e-05
+Rec timer 6.613e-06
+MS timer 1.1863e-05
+O timer 3.307e-06
+Grow timer 7.773e-06
+IMS timer 3.6749e-05
+PMCS 4
+bt time 7.083e-06
+bt -1 0
+Treewidth: 4
+d3graphs n16-4.gr
+PACE graph format detected
+TWPP reducing 16 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 4 0
+Treewidth: 4
+d3graphs n16-5.gr
+PACE graph format detected
+TWPP reducing 16 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 4 0
+Treewidth: 4
+d3graphs n16-6.gr
+PACE graph format detected
+TWPP reducing 16 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 4 0
+Treewidth: 4
+d3graphs n16-7.gr
+PACE graph format detected
+TWPP reducing 16 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 13 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 13 21 3 4
+Advanced 13 21
+allminseps 0 13 0
+allminseps 10 33 0.30303
+allminseps 20 53 0.377358
+allminseps 30 67 0.447761
+allminseps 40 70 0.571429
+allminseps 50 70 0.714286
+allminseps 60 70 0.857143
+MSTIME 8.9217e-05 257
+Enum minseps 70
+IMS timer 9.598e-05
+Enum.. 12 70 1 23 32
+Enum.. 11 38 3 7 8
+Enum.. 10 30 15 5 9
+Enum.. 9 20 17 5 8
+Enum.. 8 12 16 3 6
+Enum.. 7 5 1 1 0
+Enum.. 6 5 3 1 2
+Enum.. 5 3 0 0 0
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000340307
+Dfss 115/74
+Crosses 74/93
+Gos 93/4900
+Pre timer 7.2396e-05
+Rec timer 2.1972e-05
+MS timer 5.0925e-05
+O timer 8.319e-06
+Grow timer 2.3725e-05
+IMS timer 9.598e-05
+PMCS 10
+bt time 1.5509e-05
+bt -1 0
+Treewidth: 4
+d3graphs n16-8.gr
+PACE graph format detected
+TWPP reducing 16 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 10 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 10 18 3 4
+Advanced 10 18
+allminseps 0 10 0
+allminseps 10 24 0.416667
+allminseps 20 24 0.833333
+MSTIME 3.746e-05 97
+Enum minseps 24
+IMS timer 4.2169e-05
+Enum.. 9 24 1 10 5
+Enum.. 8 19 3 6 8
+Enum.. 7 11 8 3 5
+Enum.. 6 6 7 2 3
+Enum.. 5 3 1 0 1
+Enum.. 4 2 1 0 1
+Enum.. 3 1 1 0 1
+Enum.. 2 0 0 0 0
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000174998
+Dfss 32/26
+Crosses 26/33
+Gos 33/576
+Pre timer 1.9797e-05
+Rec timer 7.865e-06
+MS timer 1.593e-05
+O timer 3.968e-06
+Grow timer 8.356e-06
+IMS timer 4.2169e-05
+PMCS 4
+bt time 7.645e-06
+bt -1 0
+Treewidth: 4
+d3graphs n16-9.gr
+PACE graph format detected
+TWPP reducing 16 0 1 0
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 16 24 3 4
+Advanced 16 24
+allminseps 0 15 0
+allminseps 10 35 0.285714
+allminseps 20 50 0.4
+allminseps 30 71 0.422535
+allminseps 40 82 0.487805
+allminseps 50 99 0.505051
+allminseps 60 113 0.530973
+allminseps 70 125 0.56
+allminseps 80 129 0.620155
+allminseps 90 130 0.692308
+allminseps 100 130 0.769231
+MSTIME 0.000160871 331
+Enum minseps 130
+IMS timer 0.00016557
+Enum.. 15 130 9 27 47
+Enum.. 14 83 1 15 0
+Enum.. 13 83 26 15 42
+Enum.. 12 41 1 0 1
+Enum.. 11 40 1 0 1
+Enum.. 10 39 8 9 14
+Enum.. 9 25 11 8 5
+Enum.. 8 20 41 5 11
+Enum.. 7 9 1 0 1
+Enum.. 6 8 3 1 2
+Enum.. 5 6 1 0 1
+Enum.. 4 5 7 2 3
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000614461
+Dfss 274/168
+Crosses 168/234
+Gos 234/16900
+Pre timer 0.000151362
+Rec timer 5.0995e-05
+MS timer 0.000139052
+O timer 1.7262e-05
+Grow timer 5.8196e-05
+IMS timer 0.00016557
+PMCS 28
+bt time 5.5724e-05
+bt -1 0
+Treewidth: 4
+d3graphs n18-10.gr
+PACE graph format detected
+TWPP reducing 18 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 13 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 13 21 3 5
+Advanced 13 21
+allminseps 0 13 0
+allminseps 10 32 0.3125
+allminseps 20 55 0.363636
+allminseps 30 70 0.428571
+allminseps 40 81 0.493827
+allminseps 50 86 0.581395
+allminseps 60 87 0.689655
+allminseps 70 87 0.804598
+allminseps 80 87 0.91954
+MSTIME 0.00011746 257
+Enum minseps 87
+IMS timer 0.000123331
+Enum.. 12 87 15 28 43
+Enum.. 11 44 31 6 11
+Enum.. 10 33 73 9 17
+Enum.. 9 16 3 1 2
+Enum.. 8 14 1 0 1
+Enum.. 7 13 7 7 3
+Enum.. 6 10 17 3 7
+Enum.. 5 3 0 0 0
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000414737
+Dfss 310/194
+Crosses 194/326
+Gos 326/7569
+Pre timer 9.06e-05
+Rec timer 6.3147e-05
+MS timer 5.9622e-05
+O timer 9.938e-06
+Grow timer 3.3442e-05
+IMS timer 0.000123331
+PMCS 53
+bt time 0.000111659
+bt -1 0
+Treewidth: 5
+d3graphs n18-1.gr
+PACE graph format detected
+TWPP reducing 18 0 1 0
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 18 27 3 4
+Advanced 18 27
+allminseps 0 18 0
+allminseps 10 40 0.25
+allminseps 20 52 0.384615
+allminseps 30 77 0.38961
+allminseps 40 91 0.43956
+allminseps 50 112 0.446429
+allminseps 60 137 0.437956
+allminseps 70 163 0.429448
+allminseps 80 179 0.446927
+allminseps 90 188 0.478723
+allminseps 100 201 0.497512
+allminseps 200 266 0.75188
+MSTIME 0.00051792 677
+Enum minseps 268
+IMS timer 0.000529252
+Enum.. 17 268 1 87 67
+Enum.. 16 201 8 44 108
+Enum.. 15 93 13 16 35
+Enum.. 14 57 1 0 1
+Enum.. 13 56 53 11 23
+Enum.. 12 33 5 2 2
+Enum.. 11 30 1 10 0
+Enum.. 10 30 75 6 20
+Enum.. 9 9 1 0 1
+Enum.. 8 8 1 0 1
+Enum.. 7 7 1 2 0
+Enum.. 6 7 7 2 3
+Enum.. 5 4 1 0 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00187659
+Dfss 529/289
+Crosses 289/380
+Gos 380/71824
+Pre timer 0.000641713
+Rec timer 0.000168915
+MS timer 0.000429697
+O timer 5.2498e-05
+Grow timer 0.000189274
+IMS timer 0.000529252
+PMCS 18
+bt time 5.338e-05
+bt -1 0
+Treewidth: 4
+d3graphs n18-2.gr
+PACE graph format detected
+TWPP reducing 18 0 1 0
+TWPP finished 3 0
+Treewidth: 3
+d3graphs n18-3.gr
+PACE graph format detected
+TWPP reducing 18 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 6 0 1 4
+TWPP finished 4 0
+Treewidth: 4
+d3graphs n18-4.gr
+PACE graph format detected
+TWPP reducing 18 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 15 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 15 24 3 5
+Advanced 15 24
+allminseps 0 15 0
+allminseps 10 37 0.27027
+allminseps 20 57 0.350877
+allminseps 30 80 0.375
+allminseps 40 90 0.444444
+allminseps 50 111 0.45045
+allminseps 60 128 0.46875
+allminseps 70 137 0.510949
+allminseps 80 139 0.57554
+allminseps 90 139 0.647482
+allminseps 100 139 0.719424
+MSTIME 0.000171622 331
+Enum minseps 139
+IMS timer 0.000177452
+Enum.. 14 139 39 41 69
+Enum.. 13 70 19 12 9
+Enum.. 12 61 29 12 12
+Enum.. 11 49 85 11 23
+Enum.. 10 26 26 6 6
+Enum.. 9 20 1 0 1
+Enum.. 8 19 40 5 12
+Enum.. 7 7 3 1 2
+Enum.. 6 5 1 0 1
+Enum.. 5 4 2 1 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000662121
+Dfss 569/353
+Crosses 353/643
+Gos 643/19321
+Pre timer 0.000159139
+Rec timer 0.000113872
+MS timer 0.000111878
+O timer 2.1229e-05
+Grow timer 6.8988e-05
+IMS timer 0.000177452
+PMCS 98
+bt time 0.000255018
+bt 4 21
+Treewidth: 4
+d3graphs n18-5.gr
+PACE graph format detected
+TWPP reducing 18 0 1 0
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 18 27 3 4
+Advanced 18 27
+allminseps 0 18 0
+allminseps 10 41 0.243902
+allminseps 20 52 0.384615
+allminseps 30 75 0.4
+allminseps 40 94 0.425532
+allminseps 50 109 0.458716
+allminseps 60 122 0.491803
+allminseps 70 140 0.5
+allminseps 80 152 0.526316
+allminseps 90 165 0.545455
+allminseps 100 171 0.584795
+allminseps 200 240 0.833333
+MSTIME 0.000519763 677
+Enum minseps 242
+IMS timer 0.000533459
+Enum.. 17 242 1 68 64
+Enum.. 16 178 39 39 90
+Enum.. 15 88 3 1 2
+Enum.. 14 86 1 0 1
+Enum.. 13 85 29 14 45
+Enum.. 12 39 8 6 10
+Enum.. 11 28 20 6 8
+Enum.. 10 20 7 2 3
+Enum.. 9 16 1 0 1
+Enum.. 8 15 1 4 0
+Enum.. 7 15 30 4 10
+Enum.. 6 5 1 0 1
+Enum.. 5 4 1 0 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.0020506
+Dfss 434/253
+Crosses 253/383
+Gos 383/58564
+Pre timer 0.000659284
+Rec timer 0.000173967
+MS timer 0.00053399
+O timer 6.4478e-05
+Grow timer 0.000170889
+IMS timer 0.000533459
+PMCS 30
+bt time 0.000118572
+bt -1 0
+Treewidth: 4
+d3graphs n18-6.gr
+PACE graph format detected
+TWPP reducing 18 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 13 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 13 21 3 5
+Advanced 13 21
+allminseps 0 13 0
+allminseps 10 32 0.3125
+allminseps 20 47 0.425532
+allminseps 30 64 0.46875
+allminseps 40 66 0.606061
+allminseps 50 67 0.746269
+allminseps 60 67 0.895522
+MSTIME 0.000184285 257
+Enum minseps 67
+IMS timer 0.000193533
+Enum.. 12 67 20 19 26
+Enum.. 11 41 15 6 9
+Enum.. 10 32 24 10 7
+Enum.. 9 24 21 7 4
+Enum.. 8 20 12 3 4
+Enum.. 7 15 19 5 5
+Enum.. 6 10 1 0 1
+Enum.. 5 9 16 3 6
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000755074
+Dfss 280/164
+Crosses 164/276
+Gos 276/4489
+Pre timer 0.000147308
+Rec timer 0.000108543
+MS timer 0.000119211
+O timer 2.3774e-05
+Grow timer 7.1476e-05
+IMS timer 0.000193533
+PMCS 53
+bt time 0.000222216
+bt -1 0
+Treewidth: 5
+d3graphs n18-7.gr
+PACE graph format detected
+TWPP reducing 18 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 14 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 14 23 3 5
+Advanced 14 23
+allminseps 0 14 0
+allminseps 10 35 0.285714
+allminseps 20 56 0.357143
+allminseps 30 73 0.410959
+allminseps 40 85 0.470588
+allminseps 50 93 0.537634
+allminseps 60 101 0.594059
+allminseps 70 106 0.660377
+allminseps 80 106 0.754717
+allminseps 90 106 0.849057
+allminseps 100 106 0.943396
+MSTIME 0.000273782 277
+Enum minseps 106
+IMS timer 0.000286788
+Enum.. 13 106 10 35 52
+Enum.. 12 54 34 5 11
+Enum.. 11 43 61 14 19
+Enum.. 10 24 1 0 1
+Enum.. 9 23 8 2 4
+Enum.. 8 19 28 6 8
+Enum.. 7 11 8 2 4
+Enum.. 6 7 1 0 1
+Enum.. 5 6 1 0 1
+Enum.. 4 5 7 2 3
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00101146
+Dfss 396/229
+Crosses 229/427
+Gos 427/11236
+Pre timer 0.000242936
+Rec timer 0.000150852
+MS timer 0.000165419
+O timer 2.4205e-05
+Grow timer 8.8788e-05
+IMS timer 0.000286788
+PMCS 43
+bt time 0.000174597
+bt -1 0
+Treewidth: 5
+d3graphs n18-8.gr
+PACE graph format detected
+TWPP reducing 18 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 10 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 10 15 3 4
+Advanced 10 15
+allminseps 0 10 0
+allminseps 10 23 0.434783
+allminseps 20 25 0.8
+MSTIME 7.1364e-05 97
+Enum minseps 25
+IMS timer 8.1533e-05
+Enum.. 9 25 1 10 8
+Enum.. 8 17 11 4 5
+Enum.. 7 12 12 4 4
+Enum.. 6 8 3 1 2
+Enum.. 5 6 1 0 1
+Enum.. 4 5 7 2 3
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000347281
+Dfss 39/31
+Crosses 31/48
+Gos 48/625
+Pre timer 4.5384e-05
+Rec timer 1.8195e-05
+MS timer 3.763e-05
+O timer 8.915e-06
+Grow timer 2.199e-05
+IMS timer 8.1533e-05
+PMCS 10
+bt time 2.8032e-05
+bt -1 0
+Treewidth: 4
+d3graphs n18-9.gr
+PACE graph format detected
+TWPP reducing 18 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 9 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 9 17 3 4
+Advanced 9 17
+allminseps 0 9 0
+allminseps 10 14 0.714286
+MSTIME 3.181e-05 47
+Enum minseps 14
+IMS timer 3.8572e-05
+Enum.. 8 14 1 5 6
+Enum.. 7 8 3 1 2
+Enum.. 6 6 3 2 3
+Enum.. 5 3 1 0 1
+Enum.. 4 2 2 1 1
+Enum.. 3 1 1 0 1
+Enum.. 2 0 0 0 0
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000140282
+Dfss 11/10
+Crosses 10/12
+Gos 12/196
+Pre timer 1.1142e-05
+Rec timer 3.446e-06
+MS timer 8.836e-06
+O timer 2.746e-06
+Grow timer 5.55e-06
+IMS timer 3.8572e-05
+PMCS 3
+bt time 5.59e-06
+bt -1 0
+Treewidth: 4
+d3graphs n20-10.gr
+PACE graph format detected
+TWPP reducing 20 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 14 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 14 21 3 4
+Advanced 14 21
+allminseps 0 14 0
+allminseps 10 33 0.30303
+allminseps 20 49 0.408163
+allminseps 30 66 0.454545
+allminseps 40 72 0.555556
+allminseps 50 76 0.657895
+allminseps 60 79 0.759494
+allminseps 70 80 0.875
+MSTIME 0.000103424 277
+Enum minseps 80
+IMS timer 0.00011203
+Enum.. 13 80 1 27 20
+Enum.. 12 60 27 6 16
+Enum.. 11 44 29 11 22
+Enum.. 10 22 1 0 1
+Enum.. 9 21 8 2 4
+Enum.. 8 17 17 5 5
+Enum.. 7 12 3 1 2
+Enum.. 6 10 1 0 1
+Enum.. 5 9 16 3 6
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000418564
+Dfss 246/153
+Crosses 153/195
+Gos 195/6400
+Pre timer 8.3666e-05
+Rec timer 4.1367e-05
+MS timer 7.7865e-05
+O timer 1.167e-05
+Grow timer 3.8084e-05
+IMS timer 0.00011203
+PMCS 27
+bt time 5.2749e-05
+bt -1 0
+Treewidth: 4
+d3graphs n20-1.gr
+PACE graph format detected
+TWPP reducing 20 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 17 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 17 27 3 5
+Advanced 17 27
+allminseps 0 17 0
+allminseps 10 39 0.25641
+allminseps 20 53 0.377358
+allminseps 30 81 0.37037
+allminseps 40 99 0.40404
+allminseps 50 122 0.409836
+allminseps 60 150 0.4
+allminseps 70 173 0.404624
+allminseps 80 194 0.412371
+allminseps 90 207 0.434783
+allminseps 100 218 0.458716
+allminseps 200 264 0.757576
+MSTIME 0.000274825 673
+Enum minseps 264
+IMS timer 0.000281057
+Enum.. 16 264 20 74 101
+Enum.. 15 163 29 39 57
+Enum.. 14 106 19 22 25
+Enum.. 13 81 48 16 36
+Enum.. 12 45 1 0 1
+Enum.. 11 44 30 6 7
+Enum.. 10 37 63 15 15
+Enum.. 9 21 1 0 1
+Enum.. 8 20 35 5 9
+Enum.. 7 11 1 0 1
+Enum.. 6 10 1 0 1
+Enum.. 5 9 16 3 6
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00109756
+Dfss 1018/547
+Crosses 547/812
+Gos 812/69696
+Pre timer 0.000357599
+Rec timer 0.000177563
+MS timer 0.000219955
+O timer 3.1136e-05
+Grow timer 0.000112352
+IMS timer 0.000281057
+PMCS 69
+bt time 0.000136626
+bt -1 0
+Treewidth: 5
+d3graphs n20-2.gr
+PACE graph format detected
+TWPP reducing 20 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 12 0 1 3
+TWPP atoms 1
+cc {0, 6, 10}
+Almostclique 4 12 4
+cc {0, 6, 10}
+Almostclique 4 12 5
+TWPP reducing 12 0 1 4
+TWPP finished 4 0
+Treewidth: 4
+d3graphs n20-3.gr
+PACE graph format detected
+TWPP reducing 20 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 14 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 14 23 3 4
+Advanced 14 23
+allminseps 0 14 0
+allminseps 10 33 0.30303
+allminseps 20 56 0.357143
+allminseps 30 77 0.38961
+allminseps 40 87 0.45977
+allminseps 50 90 0.555556
+allminseps 60 91 0.659341
+allminseps 70 93 0.752688
+allminseps 80 94 0.851064
+allminseps 90 94 0.957447
+MSTIME 0.000247483 277
+Enum minseps 94
+IMS timer 0.000262872
+Enum.. 13 94 1 31 29
+Enum.. 12 65 8 16 32
+Enum.. 11 33 8 7 12
+Enum.. 10 21 1 0 1
+Enum.. 9 20 29 5 11
+Enum.. 8 8 1 2 0
+Enum.. 7 8 8 2 4
+Enum.. 6 4 1 0 1
+Enum.. 5 3 2 1 1
+Enum.. 4 2 1 0 1
+Enum.. 3 1 0 0 0
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000624079
+Dfss 168/99
+Crosses 99/128
+Gos 128/8836
+Pre timer 0.000179147
+Rec timer 4.9361e-05
+MS timer 0.000115516
+O timer 1.606e-05
+Grow timer 2.9145e-05
+IMS timer 0.000262872
+PMCS 10
+bt time 1.5318e-05
+bt -1 0
+Treewidth: 4
+d3graphs n20-4.gr
+PACE graph format detected
+TWPP reducing 20 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 4 0
+Treewidth: 4
+d3graphs n20-5.gr
+PACE graph format detected
+TWPP reducing 20 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 14 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 14 24 3 4
+Advanced 14 24
+allminseps 0 14 0
+allminseps 10 34 0.294118
+allminseps 20 57 0.350877
+allminseps 30 77 0.38961
+allminseps 40 82 0.487805
+allminseps 50 91 0.549451
+allminseps 60 93 0.645161
+allminseps 70 95 0.736842
+allminseps 80 95 0.842105
+allminseps 90 95 0.947368
+MSTIME 0.00012824 277
+Enum minseps 95
+IMS timer 0.000134372
+Enum.. 13 95 1 25 49
+Enum.. 12 45 27 10 26
+Enum.. 11 19 3 1 2
+Enum.. 10 17 1 0 1
+Enum.. 9 16 8 2 4
+Enum.. 8 12 1 0 1
+Enum.. 7 11 3 3 3
+Enum.. 6 8 12 3 5
+Enum.. 5 3 1 0 1
+Enum.. 4 2 1 0 1
+Enum.. 3 1 1 0 1
+Enum.. 2 0 0 0 0
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000385011
+Dfss 115/78
+Crosses 78/115
+Gos 115/9025
+Pre timer 9.8364e-05
+Rec timer 2.6359e-05
+MS timer 6.3301e-05
+O timer 8.587e-06
+Grow timer 2.4014e-05
+IMS timer 0.000134372
+PMCS 8
+bt time 1.3225e-05
+bt -1 0
+Treewidth: 4
+d3graphs n20-6.gr
+PACE graph format detected
+TWPP reducing 20 0 1 0
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 20 30 3 5
+Advanced 20 30
+allminseps 0 20 0
+allminseps 10 43 0.232558
+allminseps 20 49 0.408163
+allminseps 30 76 0.394737
+allminseps 40 97 0.412371
+allminseps 50 110 0.454545
+allminseps 60 140 0.428571
+allminseps 70 159 0.440252
+allminseps 80 178 0.449438
+allminseps 90 198 0.454545
+allminseps 100 214 0.46729
+allminseps 200 368 0.543478
+allminseps 300 429 0.699301
+allminseps 400 446 0.896861
+MSTIME 0.000430336 1439
+Enum minseps 446
+IMS timer 0.000435446
+Enum.. 19 446 25 140 121
+Enum.. 18 325 113 54 115
+Enum.. 17 210 102 19 46
+Enum.. 16 164 1 0 1
+Enum.. 15 163 67 42 59
+Enum.. 14 104 224 22 64
+Enum.. 13 40 17 3 7
+Enum.. 12 33 1 0 1
+Enum.. 11 32 11 4 5
+Enum.. 10 27 27 7 7
+Enum.. 9 20 8 2 4
+Enum.. 8 16 1 0 1
+Enum.. 7 15 1 0 1
+Enum.. 6 14 30 4 10
+Enum.. 5 4 1 0 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00213834
+Dfss 2461/1282
+Crosses 1282/2230
+Gos 2230/198916
+Pre timer 0.000644157
+Rec timer 0.000430948
+MS timer 0.000502878
+O timer 5.87e-05
+Grow timer 0.000244762
+IMS timer 0.000435446
+PMCS 207
+bt time 0.000587852
+bt 4 35
+Treewidth: 4
+d3graphs n20-7.gr
+PACE graph format detected
+TWPP reducing 20 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 17 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 17 27 3 5
+Advanced 17 27
+allminseps 0 17 0
+allminseps 10 41 0.243902
+allminseps 20 53 0.377358
+allminseps 30 80 0.375
+allminseps 40 97 0.412371
+allminseps 50 116 0.431034
+allminseps 60 132 0.454545
+allminseps 70 150 0.466667
+allminseps 80 160 0.5
+allminseps 90 173 0.520231
+allminseps 100 177 0.564972
+MSTIME 0.000220483 673
+Enum minseps 193
+IMS timer 0.000227917
+Enum.. 16 193 8 53 40
+Enum.. 15 153 34 31 34
+Enum.. 14 119 46 12 30
+Enum.. 13 89 74 18 38
+Enum.. 12 51 1 0 1
+Enum.. 11 50 52 11 11
+Enum.. 10 39 41 10 9
+Enum.. 9 30 62 9 17
+Enum.. 8 13 1 0 1
+Enum.. 7 12 17 3 7
+Enum.. 6 5 1 0 1
+Enum.. 5 4 2 1 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00102565
+Dfss 941/537
+Crosses 537/886
+Gos 886/37249
+Pre timer 0.000254976
+Rec timer 0.000179978
+MS timer 0.000218521
+O timer 3.0929e-05
+Grow timer 0.000132218
+IMS timer 0.000227917
+PMCS 109
+bt time 0.000252723
+bt -1 0
+Treewidth: 5
+d3graphs n20-8.gr
+PACE graph format detected
+TWPP reducing 20 0 1 0
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 20 30 3 5
+Advanced 20 30
+allminseps 0 20 0
+allminseps 10 43 0.232558
+allminseps 20 50 0.4
+allminseps 30 79 0.379747
+allminseps 40 98 0.408163
+allminseps 50 110 0.454545
+allminseps 60 140 0.428571
+allminseps 70 169 0.414201
+allminseps 80 194 0.412371
+allminseps 90 214 0.420561
+allminseps 100 235 0.425532
+allminseps 200 458 0.436681
+allminseps 300 595 0.504202
+allminseps 400 671 0.596125
+allminseps 500 704 0.710227
+allminseps 600 708 0.847458
+allminseps 700 708 0.988701
+MSTIME 0.000659475 1439
+Enum minseps 708
+IMS timer 0.000664234
+Enum.. 19 708 20 211 327
+Enum.. 18 381 118 66 215
+Enum.. 17 166 17 3 7
+Enum.. 16 159 1 0 1
+Enum.. 15 158 34 28 27
+Enum.. 14 131 195 30 49
+Enum.. 13 82 78 10 17
+Enum.. 12 65 178 13 36
+Enum.. 11 29 1 0 1
+Enum.. 10 28 1 0 1
+Enum.. 9 27 57 7 15
+Enum.. 8 12 8 2 4
+Enum.. 7 8 1 0 1
+Enum.. 6 7 1 0 1
+Enum.. 5 6 7 2 3
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00282991
+Dfss 3211/1638
+Crosses 1638/2981
+Gos 2981/501264
+Pre timer 0.00101194
+Rec timer 0.000561321
+MS timer 0.000609059
+O timer 5.9249e-05
+Grow timer 0.000347402
+IMS timer 0.000664234
+PMCS 112
+bt time 0.000240861
+bt -1 0
+Treewidth: 5
+d3graphs n20-9.gr
+PACE graph format detected
+TWPP reducing 20 0 1 0
+TWPP finished 3 0
+Treewidth: 3
+d3graphs n22-10.gr
+PACE graph format detected
+TWPP reducing 22 0 1 0
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 22 33 3 4
+Advanced 22 33
+allminseps 0 22 0
+allminseps 10 45 0.222222
+allminseps 20 55 0.363636
+allminseps 30 81 0.37037
+allminseps 40 100 0.4
+allminseps 50 118 0.423729
+allminseps 60 136 0.441176
+allminseps 70 160 0.4375
+allminseps 80 185 0.432432
+allminseps 90 202 0.445545
+allminseps 100 218 0.458716
+allminseps 200 389 0.514139
+allminseps 300 514 0.583658
+allminseps 400 609 0.656814
+allminseps 500 661 0.75643
+allminseps 600 671 0.894188
+MSTIME 0.00065634 1597
+Enum minseps 671
+IMS timer 0.00066145
+Enum.. 21 671 1 109 489
+Enum.. 20 180 28 28 76
+Enum.. 19 104 7 2 3
+Enum.. 18 100 1 0 1
+Enum.. 17 99 1 11 0
+Enum.. 16 99 31 11 34
+Enum.. 15 65 1 0 1
+Enum.. 14 64 1 0 1
+Enum.. 13 63 22 15 13
+Enum.. 12 50 101 9 33
+Enum.. 11 17 1 0 1
+Enum.. 10 16 1 0 1
+Enum.. 9 15 12 4 4
+Enum.. 8 11 3 1 2
+Enum.. 7 9 1 0 1
+Enum.. 6 8 8 2 4
+Enum.. 5 4 1 0 1
+Enum.. 4 3 2 1 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00211911
+Dfss 586/346
+Crosses 346/494
+Gos 494/450241
+Pre timer 0.000989144
+Rec timer 0.000108494
+MS timer 0.000539529
+O timer 4.1828e-05
+Grow timer 0.000176061
+IMS timer 0.00066145
+PMCS 22
+bt time 3.6198e-05
+bt -1 0
+Treewidth: 4
+d3graphs n22-1.gr
+PACE graph format detected
+TWPP reducing 22 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 17 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 17 27 3 5
+Advanced 17 27
+allminseps 0 17 0
+allminseps 10 38 0.263158
+allminseps 20 54 0.37037
+allminseps 30 83 0.361446
+allminseps 40 100 0.4
+allminseps 50 123 0.406504
+allminseps 60 151 0.397351
+allminseps 70 174 0.402299
+allminseps 80 192 0.416667
+allminseps 90 209 0.430622
+allminseps 100 214 0.46729
+allminseps 200 244 0.819672
+MSTIME 0.000248014 673
+Enum minseps 244
+IMS timer 0.000253956
+Enum.. 16 244 5 76 120
+Enum.. 15 124 22 21 10
+Enum.. 14 114 73 23 35
+Enum.. 13 79 10 13 7
+Enum.. 12 72 210 16 42
+Enum.. 11 30 1 0 1
+Enum.. 10 29 28 5 9
+Enum.. 9 20 1 0 1
+Enum.. 8 19 28 6 8
+Enum.. 7 11 8 2 4
+Enum.. 6 7 1 0 1
+Enum.. 5 6 7 2 3
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00109085
+Dfss 1028/575
+Crosses 575/981
+Gos 981/59536
+Pre timer 0.000318926
+Rec timer 0.000192512
+MS timer 0.000214072
+O timer 2.5227e-05
+Grow timer 0.000144101
+IMS timer 0.000253956
+PMCS 53
+bt time 0.000104857
+bt -1 0
+Treewidth: 5
+d3graphs n22-2.gr
+PACE graph format detected
+TWPP reducing 22 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 16 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 16 27 3 6
+Advanced 16 27
+allminseps 0 16 0
+allminseps 10 39 0.25641
+allminseps 20 57 0.350877
+allminseps 30 84 0.357143
+allminseps 40 99 0.40404
+allminseps 50 115 0.434783
+allminseps 60 132 0.454545
+allminseps 70 138 0.507246
+allminseps 80 144 0.555556
+allminseps 90 152 0.592105
+allminseps 100 153 0.653595
+MSTIME 0.000181811 331
+Enum minseps 154
+IMS timer 0.000187641
+Enum.. 15 154 94 41 72
+Enum.. 14 82 63 14 16
+Enum.. 13 66 58 18 13
+Enum.. 12 53 95 12 22
+Enum.. 11 31 42 7 12
+Enum.. 10 19 1 0 1
+Enum.. 9 18 17 4 6
+Enum.. 8 12 1 0 1
+Enum.. 7 11 16 3 6
+Enum.. 6 4 1 0 1
+Enum.. 5 3 1 1 0
+Enum.. 4 3 1 0 1
+Enum.. 3 2 2 1 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000863948
+Dfss 1142/631
+Crosses 631/1226
+Gos 1226/23716
+Pre timer 0.000201959
+Rec timer 0.000228698
+MS timer 0.000132928
+O timer 2.8324e-05
+Grow timer 8.6252e-05
+IMS timer 0.000187641
+PMCS 212
+bt time 0.000613129
+bt 5 28
+Treewidth: 5
+d3graphs n22-3.gr
+PACE graph format detected
+TWPP reducing 22 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 4 0
+Treewidth: 4
+d3graphs n22-4.gr
+PACE graph format detected
+TWPP reducing 22 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 16 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 16 26 3 5
+Advanced 16 26
+allminseps 0 16 0
+allminseps 10 39 0.25641
+allminseps 20 55 0.363636
+allminseps 30 83 0.361446
+allminseps 40 97 0.412371
+allminseps 50 122 0.409836
+allminseps 60 144 0.416667
+allminseps 70 157 0.44586
+allminseps 80 165 0.484848
+allminseps 90 169 0.532544
+allminseps 100 172 0.581395
+MSTIME 0.000206297 673
+Enum minseps 176
+IMS timer 0.000212287
+Enum.. 15 176 7 53 69
+Enum.. 14 107 31 16 23
+Enum.. 13 84 28 21 21
+Enum.. 12 63 139 14 41
+Enum.. 11 22 17 3 7
+Enum.. 10 15 1 0 1
+Enum.. 9 14 6 2 3
+Enum.. 8 11 7 2 3
+Enum.. 7 8 1 0 1
+Enum.. 6 7 1 0 1
+Enum.. 5 6 7 2 3
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000813574
+Dfss 822/446
+Crosses 446/706
+Gos 706/30976
+Pre timer 0.000220352
+Rec timer 0.000150433
+MS timer 0.000147154
+O timer 1.9366e-05
+Grow timer 7.7586e-05
+IMS timer 0.000212287
+PMCS 48
+bt time 9.9706e-05
+bt -1 0
+Treewidth: 5
+d3graphs n22-5.gr
+PACE graph format detected
+TWPP reducing 22 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 13 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 13 22 3 4
+Advanced 13 22
+allminseps 0 13 0
+allminseps 10 34 0.294118
+allminseps 20 55 0.363636
+allminseps 30 71 0.422535
+allminseps 40 76 0.526316
+allminseps 50 80 0.625
+allminseps 60 80 0.75
+allminseps 70 80 0.875
+MSTIME 0.000104846 257
+Enum minseps 80
+IMS timer 0.000111028
+Enum.. 12 80 1 25 38
+Enum.. 11 42 6 6 9
+Enum.. 10 33 1 10 9
+Enum.. 9 24 4 8 8
+Enum.. 8 15 1 0 1
+Enum.. 7 14 1 4 0
+Enum.. 6 14 30 4 10
+Enum.. 5 4 1 0 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000364833
+Dfss 77/54
+Crosses 54/72
+Gos 72/6400
+Pre timer 8.4428e-05
+Rec timer 1.594e-05
+MS timer 6.0501e-05
+O timer 8.905e-06
+Grow timer 2.608e-05
+IMS timer 0.000111028
+PMCS 8
+bt time 1.3715e-05
+bt -1 0
+Treewidth: 4
+d3graphs n22-6.gr
+PACE graph format detected
+TWPP reducing 22 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 3 0
+Treewidth: 3
+d3graphs n22-7.gr
+PACE graph format detected
+TWPP reducing 22 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 13 0 1 3
+TWPP atoms 1
+cc {12}
+Almostclique 2 13 6
+cc {2, 10}
+Almostclique 3 13 7
+cc {6, 7}
+Almostclique 3 13 7
+cc {8}
+Almostclique 2 13 6
+TWPP reducing 13 0 1 3
+TWPP atoms 2
+TWPP reducing 8 0 2 3
+TWPP atoms 1
+TWPP reducing 7 0 1 3
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 6 0 1 3
+TWPP finished 4 0
+Treewidth: 4
+d3graphs n22-8.gr
+PACE graph format detected
+TWPP reducing 22 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 4 0
+Treewidth: 4
+d3graphs n22-9.gr
+PACE graph format detected
+TWPP reducing 22 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 18 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 18 29 3 5
+Advanced 18 29
+allminseps 0 18 0
+allminseps 10 41 0.243902
+allminseps 20 54 0.37037
+allminseps 30 81 0.37037
+allminseps 40 99 0.40404
+allminseps 50 118 0.423729
+allminseps 60 142 0.422535
+allminseps 70 163 0.429448
+allminseps 80 179 0.446927
+allminseps 90 192 0.46875
+allminseps 100 204 0.490196
+allminseps 200 268 0.746269
+MSTIME 0.000280756 677
+Enum minseps 269
+IMS timer 0.000287098
+Enum.. 17 269 58 72 100
+Enum.. 16 169 42 9 22
+Enum.. 15 147 79 28 64
+Enum.. 14 82 1 0 1
+Enum.. 13 81 40 21 37
+Enum.. 12 44 1 0 1
+Enum.. 11 43 41 7 10
+Enum.. 10 31 13 10 1
+Enum.. 9 30 33 8 9
+Enum.. 8 20 21 5 5
+Enum.. 7 15 1 0 1
+Enum.. 6 14 30 4 10
+Enum.. 5 4 1 0 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00126509
+Dfss 1161/639
+Crosses 639/1183
+Gos 1183/72361
+Pre timer 0.000364211
+Rec timer 0.000220054
+MS timer 0.000283661
+O timer 3.9193e-05
+Grow timer 0.000136955
+IMS timer 0.000287098
+PMCS 166
+bt time 0.000401232
+bt -1 0
+Treewidth: 5
+d3graphs n24-10.gr
+PACE graph format detected
+TWPP reducing 24 0 1 0
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 24 36 3 7
+Advanced 24 36
+allminseps 0 24 0
+allminseps 10 45 0.222222
+allminseps 20 60 0.333333
+allminseps 30 77 0.38961
+allminseps 40 101 0.39604
+allminseps 50 123 0.406504
+allminseps 60 132 0.454545
+allminseps 70 164 0.426829
+allminseps 80 195 0.410256
+allminseps 90 219 0.410959
+allminseps 100 238 0.420168
+allminseps 200 497 0.402414
+allminseps 300 711 0.421941
+allminseps 400 988 0.404858
+allminseps 500 1197 0.417711
+allminseps 600 1393 0.430725
+allminseps 700 1522 0.459921
+allminseps 800 1653 0.483969
+allminseps 900 1769 0.508762
+allminseps 1000 1892 0.528541
+allminseps 2000 2251 0.888494
+MSTIME 0.00251045 7321
+Enum minseps 2251
+IMS timer 0.00251527
+Enum.. 23 2251 536 577 743
+Enum.. 22 1508 2194 319 783
+Enum.. 21 725 882 72 195
+Enum.. 20 530 1 0 1
+Enum.. 19 529 1115 141 152
+Enum.. 18 377 828 95 101
+Enum.. 17 276 858 74 102
+Enum.. 16 174 461 35 64
+Enum.. 15 110 215 23 31
+Enum.. 14 79 44 5 13
+Enum.. 13 66 1 0 1
+Enum.. 12 65 155 12 31
+Enum.. 11 33 1 0 1
+Enum.. 10 32 1 0 1
+Enum.. 9 31 68 8 15
+Enum.. 8 16 1 0 1
+Enum.. 7 15 1 0 1
+Enum.. 6 14 30 4 10
+Enum.. 5 4 1 0 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.0177397
+Dfss 41561/19099
+Crosses 19099/58738
+Gos 58738/5067001
+Pre timer 0.00409701
+Rec timer 0.00808838
+MS timer 0.00236777
+O timer 0.000387489
+Grow timer 0.00240345
+IMS timer 0.00251527
+PMCS 3080
+bt time 0.0122115
+bt 6 62
+Treewidth: 6
+d3graphs n24-1.gr
+PACE graph format detected
+TWPP reducing 24 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 20 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 20 32 3 5
+Advanced 20 32
+allminseps 0 20 0
+allminseps 10 45 0.222222
+allminseps 20 50 0.4
+allminseps 30 78 0.384615
+allminseps 40 99 0.40404
+allminseps 50 108 0.462963
+allminseps 60 136 0.441176
+allminseps 70 159 0.440252
+allminseps 80 174 0.45977
+allminseps 90 195 0.461538
+allminseps 100 207 0.483092
+allminseps 200 336 0.595238
+allminseps 300 378 0.793651
+MSTIME 0.000369642 1439
+Enum minseps 383
+IMS timer 0.000374602
+Enum.. 19 383 79 107 196
+Enum.. 18 187 139 38 84
+Enum.. 17 103 3 1 2
+Enum.. 16 101 1 0 1
+Enum.. 15 100 263 18 68
+Enum.. 14 31 1 0 1
+Enum.. 13 30 1 4 0
+Enum.. 12 30 31 4 11
+Enum.. 11 19 1 0 1
+Enum.. 10 18 20 5 7
+Enum.. 9 11 3 1 2
+Enum.. 8 9 2 1 1
+Enum.. 7 8 1 0 1
+Enum.. 6 7 1 0 1
+Enum.. 5 6 7 2 3
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00175006
+Dfss 2276/1220
+Crosses 1220/2418
+Gos 2418/146689
+Pre timer 0.000522749
+Rec timer 0.000422903
+MS timer 0.000339584
+O timer 5.2146e-05
+Grow timer 0.000176179
+IMS timer 0.000374602
+PMCS 217
+bt time 0.000580758
+bt 4 33
+Treewidth: 4
+d3graphs n24-2.gr
+PACE graph format detected
+TWPP reducing 24 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 14 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 14 26 3 4
+Advanced 14 26
+allminseps 0 14 0
+allminseps 10 39 0.25641
+allminseps 20 57 0.350877
+allminseps 30 75 0.4
+allminseps 40 78 0.512821
+allminseps 50 80 0.625
+allminseps 60 81 0.740741
+allminseps 70 81 0.864198
+allminseps 80 81 0.987654
+MSTIME 0.00011219 277
+Enum minseps 81
+IMS timer 0.000120876
+Enum.. 13 81 0 14 12
+Enum.. 12 69 1 23 23
+Enum.. 11 46 8 11 19
+Enum.. 10 27 5 5 10
+Enum.. 9 17 3 6 2
+Enum.. 8 15 23 4 7
+Enum.. 7 8 8 2 4
+Enum.. 6 4 1 0 1
+Enum.. 5 3 1 0 1
+Enum.. 4 2 1 0 1
+Enum.. 3 1 1 0 1
+Enum.. 2 0 0 0 0
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000376526
+Dfss 102/71
+Crosses 71/91
+Gos 91/6561
+Pre timer 8.8777e-05
+Rec timer 2.104e-05
+MS timer 6.6845e-05
+O timer 1.0984e-05
+Grow timer 2.8604e-05
+IMS timer 0.000120876
+PMCS 4
+bt time 8.205e-06
+bt -1 0
+Treewidth: 4
+d3graphs n24-3.gr
+PACE graph format detected
+TWPP reducing 24 0 1 0
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 24 36 3 6
+Advanced 24 36
+allminseps 0 24 0
+allminseps 10 47 0.212766
+allminseps 20 58 0.344828
+allminseps 30 78 0.384615
+allminseps 40 103 0.38835
+allminseps 50 119 0.420168
+allminseps 60 132 0.454545
+allminseps 70 165 0.424242
+allminseps 80 195 0.410256
+allminseps 90 221 0.40724
+allminseps 100 245 0.408163
+allminseps 200 479 0.417537
+allminseps 300 665 0.451128
+allminseps 400 877 0.4561
+allminseps 500 1072 0.466418
+allminseps 600 1216 0.493421
+allminseps 700 1326 0.527903
+allminseps 800 1429 0.559832
+allminseps 900 1511 0.595632
+allminseps 1000 1590 0.628931
+MSTIME 0.00185641 3659
+Enum minseps 1754
+IMS timer 0.00186132
+Enum.. 23 1754 283 470 805
+Enum.. 22 948 325 195 295
+Enum.. 21 653 775 166 258
+Enum.. 20 394 534 61 200
+Enum.. 19 194 1 0 1
+Enum.. 18 193 3 1 2
+Enum.. 17 191 1 0 1
+Enum.. 16 190 732 32 101
+Enum.. 15 89 212 15 35
+Enum.. 14 54 83 7 19
+Enum.. 13 33 1 0 1
+Enum.. 12 32 1 0 1
+Enum.. 11 31 12 9 1
+Enum.. 10 30 59 9 14
+Enum.. 9 16 17 3 7
+Enum.. 8 9 1 0 1
+Enum.. 7 8 7 2 3
+Enum.. 6 5 1 0 1
+Enum.. 5 4 1 0 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00931086
+Dfss 15841/7622
+Crosses 7622/18145
+Gos 18145/3076516
+Pre timer 0.00302577
+Rec timer 0.00291653
+MS timer 0.0016154
+O timer 0.000219773
+Grow timer 0.00120204
+IMS timer 0.00186132
+PMCS 1041
+bt time 0.00351265
+bt 5 53
+Treewidth: 5
+d3graphs n24-4.gr
+PACE graph format detected
+TWPP reducing 24 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 20 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 20 32 3 5
+Advanced 20 32
+allminseps 0 20 0
+allminseps 10 46 0.217391
+allminseps 20 52 0.384615
+allminseps 30 82 0.365854
+allminseps 40 102 0.392157
+allminseps 50 121 0.413223
+allminseps 60 146 0.410959
+allminseps 70 175 0.4
+allminseps 80 199 0.40201
+allminseps 90 220 0.409091
+allminseps 100 240 0.416667
+allminseps 200 412 0.485437
+allminseps 300 509 0.589391
+allminseps 400 543 0.736648
+allminseps 500 546 0.915751
+MSTIME 0.000531125 1439
+Enum minseps 546
+IMS timer 0.000536014
+Enum.. 19 546 7 140 168
+Enum.. 18 378 105 74 175
+Enum.. 17 202 81 48 85
+Enum.. 16 117 0 28 0
+Enum.. 15 117 140 28 36
+Enum.. 14 81 222 14 53
+Enum.. 13 28 1 0 1
+Enum.. 12 27 33 7 9
+Enum.. 11 18 18 3 8
+Enum.. 10 10 1 0 1
+Enum.. 9 9 2 1 1
+Enum.. 8 8 1 0 1
+Enum.. 7 7 1 0 1
+Enum.. 6 6 1 0 1
+Enum.. 5 5 3 1 2
+Enum.. 4 3 1 0 1
+Enum.. 3 2 2 1 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.0022272
+Dfss 2278/1209
+Crosses 1209/2319
+Gos 2319/298116
+Pre timer 0.00078002
+Rec timer 0.0004218
+MS timer 0.000465782
+O timer 6.1769e-05
+Grow timer 0.000257492
+IMS timer 0.000536014
+PMCS 146
+bt time 0.00034699
+bt -1 0
+Treewidth: 5
+d3graphs n24-5.gr
+PACE graph format detected
+TWPP reducing 24 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 15 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 15 26 3 4
+Advanced 15 26
+allminseps 0 15 0
+allminseps 10 38 0.263158
+allminseps 20 57 0.350877
+allminseps 30 77 0.38961
+allminseps 40 86 0.465116
+allminseps 50 96 0.520833
+allminseps 60 98 0.612245
+allminseps 70 102 0.686275
+allminseps 80 102 0.784314
+allminseps 90 102 0.882353
+allminseps 100 102 0.980392
+MSTIME 0.000145482 331
+Enum minseps 102
+IMS timer 0.00015483
+Enum.. 14 102 1 28 30
+Enum.. 13 72 11 15 15
+Enum.. 12 57 15 14 22
+Enum.. 11 35 8 7 18
+Enum.. 10 17 1 0 1
+Enum.. 9 16 1 0 1
+Enum.. 8 15 1 4 6
+Enum.. 7 9 4 4 2
+Enum.. 6 7 1 0 1
+Enum.. 5 6 1 0 1
+Enum.. 4 5 7 2 3
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000432149
+Dfss 114/76
+Crosses 76/100
+Gos 100/10404
+Pre timer 0.000110958
+Rec timer 2.3915e-05
+MS timer 8.6271e-05
+O timer 1.2574e-05
+Grow timer 2.8143e-05
+IMS timer 0.00015483
+PMCS 8
+bt time 1.3345e-05
+bt -1 0
+Treewidth: 4
+d3graphs n24-6.gr
+PACE graph format detected
+TWPP reducing 24 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 20 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 20 32 3 6
+Advanced 20 32
+allminseps 0 20 0
+allminseps 10 45 0.222222
+allminseps 20 52 0.384615
+allminseps 30 82 0.365854
+allminseps 40 105 0.380952
+allminseps 50 119 0.420168
+allminseps 60 147 0.408163
+allminseps 70 178 0.393258
+allminseps 80 206 0.38835
+allminseps 90 227 0.396476
+allminseps 100 251 0.398406
+allminseps 200 473 0.422833
+allminseps 300 582 0.515464
+allminseps 400 647 0.618238
+allminseps 500 664 0.753012
+allminseps 600 667 0.89955
+MSTIME 0.000676147 1439
+Enum minseps 667
+IMS timer 0.000681206
+Enum.. 19 667 139 203 330
+Enum.. 18 337 75 32 55
+Enum.. 17 282 402 62 97
+Enum.. 16 185 286 36 75
+Enum.. 15 110 326 25 57
+Enum.. 14 53 1 0 1
+Enum.. 13 52 44 9 11
+Enum.. 12 41 16 5 5
+Enum.. 11 36 15 11 6
+Enum.. 10 30 73 7 19
+Enum.. 9 11 8 2 4
+Enum.. 8 7 2 1 1
+Enum.. 7 6 1 0 1
+Enum.. 6 5 1 0 1
+Enum.. 5 4 1 0 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00350501
+Dfss 5875/2963
+Crosses 2963/7180
+Gos 7180/444889
+Pre timer 0.00104156
+Rec timer 0.00114411
+MS timer 0.000564138
+O timer 8.3455e-05
+Grow timer 0.000411489
+IMS timer 0.000681206
+PMCS 407
+bt time 0.00106115
+bt -1 0
+Treewidth: 6
+d3graphs n24-7.gr
+PACE graph format detected
+TWPP reducing 24 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 18 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 18 30 3 6
+Advanced 18 30
+allminseps 0 18 0
+allminseps 10 43 0.232558
+allminseps 20 55 0.363636
+allminseps 30 86 0.348837
+allminseps 40 106 0.377358
+allminseps 50 122 0.409836
+allminseps 60 152 0.394737
+allminseps 70 178 0.393258
+allminseps 80 203 0.394089
+allminseps 90 223 0.403587
+allminseps 100 244 0.409836
+allminseps 200 366 0.546448
+allminseps 300 386 0.777202
+MSTIME 0.000364763 1361
+Enum minseps 387
+IMS timer 0.000369923
+Enum.. 17 387 123 134 200
+Enum.. 16 187 545 44 105
+Enum.. 15 82 70 7 17
+Enum.. 14 65 1 0 1
+Enum.. 13 64 71 9 19
+Enum.. 12 45 78 8 20
+Enum.. 11 25 1 0 1
+Enum.. 10 24 17 7 5
+Enum.. 9 19 15 4 5
+Enum.. 8 14 1 0 1
+Enum.. 7 13 9 3 3
+Enum.. 6 9 1 3 0
+Enum.. 5 9 16 3 6
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00203593
+Dfss 3791/2016
+Crosses 2016/4483
+Gos 4483/149769
+Pre timer 0.000532879
+Rec timer 0.000748081
+MS timer 0.000272842
+O timer 5.9131e-05
+Grow timer 0.000186428
+IMS timer 0.000369923
+PMCS 320
+bt time 0.000812742
+bt -1 0
+Treewidth: 6
+d3graphs n24-8.gr
+PACE graph format detected
+TWPP reducing 24 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 21 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 21 33 3 4
+Advanced 21 33
+allminseps 0 21 0
+allminseps 10 45 0.222222
+allminseps 20 53 0.377358
+allminseps 30 81 0.37037
+allminseps 40 103 0.38835
+allminseps 50 116 0.431034
+allminseps 60 143 0.41958
+allminseps 70 171 0.409357
+allminseps 80 188 0.425532
+allminseps 90 208 0.432692
+allminseps 100 227 0.440529
+allminseps 200 373 0.536193
+allminseps 300 450 0.666667
+allminseps 400 500 0.8
+allminseps 500 501 0.998004
+MSTIME 0.000498584 1597
+Enum minseps 501
+IMS timer 0.00050706
+Enum.. 20 501 1 132 178
+Enum.. 19 323 5 61 155
+Enum.. 18 168 5 37 36
+Enum.. 17 132 6 38 18
+Enum.. 16 114 95 19 83
+Enum.. 15 30 1 0 1
+Enum.. 14 29 10 3 3
+Enum.. 13 26 1 0 1
+Enum.. 12 25 8 2 4
+Enum.. 11 21 1 0 1
+Enum.. 10 20 1 0 1
+Enum.. 9 19 29 4 10
+Enum.. 8 9 1 0 1
+Enum.. 7 8 1 0 1
+Enum.. 6 7 2 1 1
+Enum.. 5 5 1 2 0
+Enum.. 4 5 7 2 3
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00170109
+Dfss 671/372
+Crosses 372/535
+Gos 535/251001
+Pre timer 0.000728295
+Rec timer 0.000116235
+MS timer 0.00043821
+O timer 4.353e-05
+Grow timer 0.000123574
+IMS timer 0.00050706
+PMCS 18
+bt time 2.7722e-05
+bt -1 0
+Treewidth: 4
+d3graphs n24-9.gr
+PACE graph format detected
+TWPP reducing 24 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 10 0 1 4
+TWPP finished 4 0
+Treewidth: 4
+d3graphs n26-10.gr
+PACE graph format detected
+TWPP reducing 26 0 1 0
+TWPP atoms 1
+cc {16, 19}
+Almostclique 3 26 14
+cc {16, 19}
+Almostclique 3 26 15
+TWPP reducing 26 0 1 3
+TWPP atoms 2
+TWPP reducing 12 0 2 3
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 17 0 1 4
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 13 0 1 4
+TWPP atoms 1
+TWPP finished 4 0
+Treewidth: 4
+d3graphs n26-1.gr
+PACE graph format detected
+TWPP reducing 26 0 1 0
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 26 39 3 6
+Advanced 26 39
+allminseps 0 26 0
+allminseps 10 52 0.192308
+allminseps 20 63 0.31746
+allminseps 30 78 0.384615
+allminseps 40 104 0.384615
+allminseps 50 124 0.403226
+allminseps 60 138 0.434783
+allminseps 70 161 0.434783
+allminseps 80 191 0.418848
+allminseps 90 220 0.409091
+allminseps 100 243 0.411523
+allminseps 200 478 0.41841
+allminseps 300 699 0.429185
+allminseps 400 953 0.419727
+allminseps 500 1201 0.41632
+allminseps 600 1417 0.42343
+allminseps 700 1608 0.435323
+allminseps 800 1854 0.431499
+allminseps 900 2083 0.432069
+allminseps 1000 2264 0.441696
+allminseps 2000 3794 0.527148
+allminseps 3000 4374 0.685871
+allminseps 4000 4498 0.889284
+MSTIME 0.00528456 16843
+Enum minseps 4501
+IMS timer 0.00529879
+Enum.. 25 4501 174 1297 1520
+Enum.. 24 2981 202 583 1092
+Enum.. 23 1889 217 427 848
+Enum.. 22 1041 1073 172 406
+Enum.. 21 635 1 0 1
+Enum.. 20 634 772 133 235
+Enum.. 19 399 1525 103 208
+Enum.. 18 191 307 33 46
+Enum.. 17 145 472 16 68
+Enum.. 16 77 1 0 1
+Enum.. 15 76 1 0 1
+Enum.. 14 75 1 0 1
+Enum.. 13 74 128 14 29
+Enum.. 12 44 1 8 0
+Enum.. 11 44 138 8 29
+Enum.. 10 15 1 0 1
+Enum.. 9 14 1 0 1
+Enum.. 8 13 1 0 1
+Enum.. 7 12 3 1 2
+Enum.. 6 10 1 0 1
+Enum.. 5 9 16 3 6
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.0222702
+Dfss 34154/16506
+Crosses 16506/37606
+Gos 37606/20259001
+Pre timer 0.00821478
+Rec timer 0.00615067
+MS timer 0.00414304
+O timer 0.000480082
+Grow timer 0.00273686
+IMS timer 0.00529879
+PMCS 834
+bt time 0.00255155
+bt 5 55
+Treewidth: 5
+d3graphs n26-2.gr
+PACE graph format detected
+TWPP reducing 26 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 19 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 19 32 3 5
+Advanced 19 32
+allminseps 0 19 0
+allminseps 10 44 0.227273
+allminseps 20 55 0.363636
+allminseps 30 83 0.361446
+allminseps 40 107 0.373832
+allminseps 50 120 0.416667
+allminseps 60 145 0.413793
+allminseps 70 175 0.4
+allminseps 80 192 0.416667
+allminseps 90 215 0.418605
+allminseps 100 227 0.440529
+allminseps 200 346 0.578035
+allminseps 300 372 0.806452
+MSTIME 0.000355817 1361
+Enum minseps 372
+IMS timer 0.000360876
+Enum.. 18 372 52 101 150
+Enum.. 17 222 105 45 126
+Enum.. 16 96 30 13 31
+Enum.. 15 65 1 0 1
+Enum.. 14 64 15 9 12
+Enum.. 13 52 38 12 12
+Enum.. 12 40 95 8 22
+Enum.. 11 18 1 0 1
+Enum.. 10 17 1 0 1
+Enum.. 9 16 3 3 2
+Enum.. 8 14 19 4 7
+Enum.. 7 7 1 0 1
+Enum.. 6 6 1 0 1
+Enum.. 5 5 3 1 2
+Enum.. 4 3 1 0 1
+Enum.. 3 2 2 1 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00143008
+Dfss 1268/729
+Crosses 729/1195
+Gos 1195/138384
+Pre timer 0.000495127
+Rec timer 0.000239427
+MS timer 0.000293613
+O timer 4.3613e-05
+Grow timer 0.000137176
+IMS timer 0.000360876
+PMCS 131
+bt time 0.000306524
+bt -1 0
+Treewidth: 5
+d3graphs n26-3.gr
+PACE graph format detected
+TWPP reducing 26 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 21 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 21 34 3 5
+Advanced 21 34
+allminseps 0 21 0
+allminseps 10 46 0.217391
+allminseps 20 55 0.363636
+allminseps 30 84 0.357143
+allminseps 40 108 0.37037
+allminseps 50 124 0.403226
+allminseps 60 145 0.413793
+allminseps 70 177 0.39548
+allminseps 80 199 0.40201
+allminseps 90 223 0.403587
+allminseps 100 249 0.401606
+allminseps 200 457 0.437637
+allminseps 300 611 0.490998
+allminseps 400 704 0.568182
+allminseps 500 766 0.652742
+allminseps 600 801 0.749064
+allminseps 700 801 0.873908
+allminseps 800 801 0.998752
+MSTIME 0.00081166 3203
+Enum minseps 801
+IMS timer 0.000816559
+Enum.. 20 801 7 222 310
+Enum.. 19 491 36 53 112
+Enum.. 18 378 26 99 81
+Enum.. 17 297 36 65 132
+Enum.. 16 165 1 0 1
+Enum.. 15 164 61 29 69
+Enum.. 14 95 56 21 38
+Enum.. 13 57 1 0 1
+Enum.. 12 56 122 11 29
+Enum.. 11 27 1 0 1
+Enum.. 10 26 50 6 15
+Enum.. 9 11 1 0 1
+Enum.. 8 10 1 0 1
+Enum.. 7 9 5 2 2
+Enum.. 6 6 1 2 0
+Enum.. 5 6 8 2 4
+Enum.. 4 2 0 0 0
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00292624
+Dfss 1742/918
+Crosses 918/1432
+Gos 1432/641601
+Pre timer 0.0012566
+Rec timer 0.000309982
+MS timer 0.000760877
+O timer 7.7924e-05
+Grow timer 0.000257521
+IMS timer 0.000816559
+PMCS 75
+bt time 0.000158256
+bt -1 0
+Treewidth: 5
+d3graphs n26-4.gr
+PACE graph format detected
+TWPP reducing 26 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 21 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 21 34 3 5
+Advanced 21 34
+allminseps 0 21 0
+allminseps 10 45 0.222222
+allminseps 20 55 0.363636
+allminseps 30 85 0.352941
+allminseps 40 109 0.366972
+allminseps 50 125 0.4
+allminseps 60 149 0.402685
+allminseps 70 179 0.391061
+allminseps 80 210 0.380952
+allminseps 90 233 0.386266
+allminseps 100 259 0.3861
+allminseps 200 486 0.411523
+allminseps 300 619 0.484653
+allminseps 400 711 0.562588
+allminseps 500 765 0.653595
+allminseps 600 793 0.75662
+allminseps 700 796 0.879397
+MSTIME 0.000823773 1597
+Enum minseps 796
+IMS timer 0.000828782
+Enum.. 20 796 53 208 365
+Enum.. 19 431 45 91 188
+Enum.. 18 242 3 1 2
+Enum.. 17 240 1 0 1
+Enum.. 16 239 27 56 128
+Enum.. 15 111 1 0 1
+Enum.. 14 110 36 17 23
+Enum.. 13 87 34 17 23
+Enum.. 12 64 86 17 28
+Enum.. 11 36 1 0 1
+Enum.. 10 35 52 14 13
+Enum.. 9 21 1 0 1
+Enum.. 8 20 21 5 5
+Enum.. 7 15 1 0 1
+Enum.. 6 14 30 4 10
+Enum.. 5 4 1 0 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00289303
+Dfss 1492/813
+Crosses 813/1397
+Gos 1397/633616
+Pre timer 0.00131135
+Rec timer 0.000275095
+MS timer 0.000735719
+O timer 8.408e-05
+Grow timer 0.000243959
+IMS timer 0.000828782
+PMCS 127
+bt time 0.000280585
+bt -1 0
+Treewidth: 5
+d3graphs n26-5.gr
+PACE graph format detected
+TWPP reducing 26 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 22 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 22 33 3 6
+Advanced 22 33
+allminseps 0 22 0
+allminseps 10 46 0.217391
+allminseps 20 55 0.363636
+allminseps 30 80 0.375
+allminseps 40 102 0.392157
+allminseps 50 119 0.420168
+allminseps 60 139 0.431655
+allminseps 70 167 0.419162
+allminseps 80 192 0.416667
+allminseps 90 216 0.416667
+allminseps 100 237 0.421941
+allminseps 200 475 0.421053
+allminseps 300 673 0.445765
+allminseps 400 886 0.451467
+allminseps 500 1068 0.468165
+allminseps 600 1179 0.508906
+allminseps 700 1242 0.563607
+allminseps 800 1321 0.605602
+allminseps 900 1360 0.661765
+allminseps 1000 1380 0.724638
+MSTIME 0.00136289 3203
+Enum minseps 1396
+IMS timer 0.00136784
+Enum.. 21 1396 211 407 798
+Enum.. 20 598 611 124 188
+Enum.. 19 410 355 27 48
+Enum.. 18 362 1187 86 155
+Enum.. 17 206 1 30 0
+Enum.. 16 206 867 30 130
+Enum.. 15 76 1 0 1
+Enum.. 14 75 1 0 1
+Enum.. 13 74 125 12 23
+Enum.. 12 51 1 0 1
+Enum.. 11 50 27 5 9
+Enum.. 10 41 101 11 23
+Enum.. 9 18 1 0 1
+Enum.. 8 17 3 1 2
+Enum.. 7 15 1 0 1
+Enum.. 6 14 30 4 10
+Enum.. 5 4 1 0 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00807377
+Dfss 15718/7841
+Crosses 7841/22024
+Gos 22024/1948816
+Pre timer 0.00219961
+Rec timer 0.00302071
+MS timer 0.00121263
+O timer 0.000173192
+Grow timer 0.00117604
+IMS timer 0.00136784
+PMCS 742
+bt time 0.00200044
+bt -1 0
+Treewidth: 6
+d3graphs n26-6.gr
+PACE graph format detected
+TWPP reducing 26 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 23 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 23 36 3 5
+Advanced 23 36
+allminseps 0 23 0
+allminseps 10 49 0.204082
+allminseps 20 59 0.338983
+allminseps 30 81 0.37037
+allminseps 40 106 0.377358
+allminseps 50 126 0.396825
+allminseps 60 138 0.434783
+allminseps 70 166 0.421687
+allminseps 80 196 0.408163
+allminseps 90 216 0.416667
+allminseps 100 241 0.414938
+allminseps 200 456 0.438596
+allminseps 300 613 0.489396
+allminseps 400 793 0.504414
+allminseps 500 903 0.55371
+allminseps 600 955 0.628272
+allminseps 700 1017 0.688299
+allminseps 800 1039 0.769971
+allminseps 900 1051 0.856327
+allminseps 1000 1052 0.95057
+MSTIME 0.00111543 3659
+Enum minseps 1052
+IMS timer 0.00112042
+Enum.. 22 1052 18 400 409
+Enum.. 21 643 39 148 142
+Enum.. 20 501 370 63 375
+Enum.. 19 126 1 0 1
+Enum.. 18 125 8 2 4
+Enum.. 17 121 22 19 15
+Enum.. 16 106 85 7 17
+Enum.. 15 89 64 10 27
+Enum.. 14 62 1 0 1
+Enum.. 13 61 1 0 1
+Enum.. 12 60 39 17 10
+Enum.. 11 50 94 11 24
+Enum.. 10 26 1 0 1
+Enum.. 9 25 55 6 15
+Enum.. 8 10 1 0 1
+Enum.. 7 9 3 1 2
+Enum.. 6 7 1 0 1
+Enum.. 5 6 7 2 3
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.0041915
+Dfss 4330/2268
+Crosses 2268/4055
+Gos 4055/1106704
+Pre timer 0.00165462
+Rec timer 0.000749172
+MS timer 0.000970387
+O timer 0.000109849
+Grow timer 0.000424426
+IMS timer 0.00112042
+PMCS 169
+bt time 0.000398596
+bt -1 0
+Treewidth: 5
+d3graphs n26-7.gr
+PACE graph format detected
+TWPP reducing 26 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 22 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 22 33 3 5
+Advanced 22 33
+allminseps 0 22 0
+allminseps 10 47 0.212766
+allminseps 20 55 0.363636
+allminseps 30 79 0.379747
+allminseps 40 105 0.380952
+allminseps 50 117 0.42735
+allminseps 60 139 0.431655
+allminseps 70 164 0.426829
+allminseps 80 188 0.425532
+allminseps 90 210 0.428571
+allminseps 100 235 0.425532
+allminseps 200 437 0.457666
+allminseps 300 581 0.516351
+allminseps 400 731 0.547196
+allminseps 500 858 0.582751
+allminseps 600 915 0.655738
+allminseps 700 971 0.720906
+allminseps 800 984 0.813008
+allminseps 900 987 0.911854
+MSTIME 0.000985116 3203
+Enum minseps 987
+IMS timer 0.000990094
+Enum.. 21 987 52 204 612
+Enum.. 20 375 66 65 108
+Enum.. 19 266 61 36 47
+Enum.. 18 219 1 0 1
+Enum.. 17 218 36 19 25
+Enum.. 16 193 227 31 96
+Enum.. 15 97 1 0 1
+Enum.. 14 96 98 26 24
+Enum.. 13 72 85 19 16
+Enum.. 12 56 175 12 34
+Enum.. 11 22 3 1 2
+Enum.. 10 20 1 0 1
+Enum.. 9 19 17 3 7
+Enum.. 8 12 1 0 1
+Enum.. 7 11 1 0 1
+Enum.. 6 10 16 3 6
+Enum.. 5 4 1 0 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.0040103
+Dfss 3850/1992
+Crosses 1992/3626
+Gos 3626/974169
+Pre timer 0.00159741
+Rec timer 0.00067391
+MS timer 0.000897924
+O timer 8.0377e-05
+Grow timer 0.000479888
+IMS timer 0.000990094
+PMCS 176
+bt time 0.000410549
+bt -1 0
+Treewidth: 5
+d3graphs n26-8.gr
+PACE graph format detected
+TWPP reducing 26 0 1 0
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 26 39 3 7
+Advanced 26 39
+allminseps 0 26 0
+allminseps 10 52 0.192308
+allminseps 20 64 0.3125
+allminseps 30 77 0.38961
+allminseps 40 105 0.380952
+allminseps 50 127 0.393701
+allminseps 60 143 0.41958
+allminseps 70 161 0.434783
+allminseps 80 189 0.42328
+allminseps 90 218 0.412844
+allminseps 100 247 0.404858
+allminseps 200 496 0.403226
+allminseps 300 727 0.412655
+allminseps 400 989 0.404449
+allminseps 500 1259 0.397141
+allminseps 600 1496 0.40107
+allminseps 700 1714 0.408401
+allminseps 800 1899 0.421274
+allminseps 900 2153 0.418021
+allminseps 1000 2398 0.417014
+allminseps 2000 4101 0.487686
+allminseps 3000 5000 0.6
+allminseps 4000 5293 0.755715
+allminseps 5000 5361 0.932662
+MSTIME 0.00639609 16843
+Enum minseps 5361
+IMS timer 0.00640888
+Enum.. 25 5361 1037 1384 3266
+Enum.. 24 2095 2919 315 836
+Enum.. 23 1259 2989 235 581
+Enum.. 22 678 1347 79 186
+Enum.. 21 492 1 0 1
+Enum.. 20 491 1961 111 223
+Enum.. 19 268 321 15 40
+Enum.. 18 228 1 0 1
+Enum.. 17 227 355 60 45
+Enum.. 16 182 631 38 98
+Enum.. 15 84 1 0 1
+Enum.. 14 83 26 8 7
+Enum.. 13 76 69 20 17
+Enum.. 12 59 149 15 26
+Enum.. 11 33 8 2 4
+Enum.. 10 29 1 0 1
+Enum.. 9 28 1 0 1
+Enum.. 8 27 77 6 21
+Enum.. 7 6 1 0 1
+Enum.. 6 5 1 0 1
+Enum.. 5 4 1 0 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.0368665
+Dfss 88860/40933
+Crosses 40933/141907
+Gos 141907/28740321
+Pre timer 0.010063
+Rec timer 0.0177199
+MS timer 0.00392111
+O timer 0.000450661
+Grow timer 0.00395519
+IMS timer 0.00640888
+PMCS 3138
+bt time 0.0116831
+bt 6 64
+Treewidth: 6
+d3graphs n26-9.gr
+PACE graph format detected
+TWPP reducing 26 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 17 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 17 29 3 5
+Advanced 17 29
+allminseps 0 17 0
+allminseps 10 42 0.238095
+allminseps 20 56 0.357143
+allminseps 30 83 0.361446
+allminseps 40 103 0.38835
+allminseps 50 121 0.413223
+allminseps 60 146 0.410959
+allminseps 70 167 0.419162
+allminseps 80 182 0.43956
+allminseps 90 195 0.461538
+allminseps 100 207 0.483092
+allminseps 200 245 0.816327
+MSTIME 0.000254307 673
+Enum minseps 246
+IMS timer 0.000260317
+Enum.. 16 246 18 74 105
+Enum.. 15 141 82 29 64
+Enum.. 14 77 29 9 26
+Enum.. 13 51 1 0 1
+Enum.. 12 50 50 12 28
+Enum.. 11 22 21 4 6
+Enum.. 10 16 1 0 1
+Enum.. 9 15 9 2 5
+Enum.. 8 10 7 2 3
+Enum.. 7 6 1 0 1
+Enum.. 6 5 1 2 0
+Enum.. 5 5 7 2 3
+Enum.. 4 2 1 0 1
+Enum.. 3 1 1 0 1
+Enum.. 2 0 0 0 0
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000980788
+Dfss 910/509
+Crosses 509/794
+Gos 794/60516
+Pre timer 0.000325962
+Rec timer 0.000168034
+MS timer 0.000183795
+O timer 2.1751e-05
+Grow timer 7.3898e-05
+IMS timer 0.000260317
+PMCS 57
+bt time 0.000121828
+bt -1 0
+Treewidth: 5
+d3graphs n28-10.gr
+PACE graph format detected
+TWPP reducing 28 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP finished 4 0
+Treewidth: 4
+d3graphs n28-1.gr
+PACE graph format detected
+TWPP reducing 28 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 14 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 14 27 3 5
+Advanced 14 27
+allminseps 0 14 0
+allminseps 10 40 0.25
+allminseps 20 52 0.384615
+allminseps 30 66 0.454545
+allminseps 40 70 0.571429
+allminseps 50 72 0.694444
+allminseps 60 72 0.833333
+allminseps 70 72 0.972222
+MSTIME 0.000103223 277
+Enum minseps 72
+IMS timer 0.00011239
+Enum.. 13 72 11 18 15
+Enum.. 12 57 15 13 17
+Enum.. 11 40 15 12 15
+Enum.. 10 25 49 6 15
+Enum.. 9 10 1 0 1
+Enum.. 8 9 3 2 2
+Enum.. 7 7 6 2 3
+Enum.. 6 4 2 1 1
+Enum.. 5 3 1 0 1
+Enum.. 4 2 1 0 1
+Enum.. 3 1 1 0 1
+Enum.. 2 0 0 0 0
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000391413
+Dfss 231/152
+Crosses 152/223
+Gos 223/5184
+Pre timer 7.6462e-05
+Rec timer 4.9124e-05
+MS timer 6.0442e-05
+O timer 1.2051e-05
+Grow timer 3.0228e-05
+IMS timer 0.00011239
+PMCS 41
+bt time 9.2874e-05
+bt -1 0
+Treewidth: 5
+d3graphs n28-2.gr
+PACE graph format detected
+TWPP reducing 28 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 16 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 16 28 3 5
+Advanced 16 28
+allminseps 0 15 0
+allminseps 10 38 0.263158
+allminseps 20 56 0.357143
+allminseps 30 81 0.37037
+allminseps 40 94 0.425532
+allminseps 50 111 0.45045
+allminseps 60 122 0.491803
+allminseps 70 138 0.507246
+allminseps 80 144 0.555556
+allminseps 90 147 0.612245
+allminseps 100 147 0.680272
+MSTIME 0.000182061 331
+Enum minseps 147
+IMS timer 0.00018672
+Enum.. 15 147 10 42 74
+Enum.. 14 72 16 14 19
+Enum.. 13 53 0 8 0
+Enum.. 12 53 28 8 17
+Enum.. 11 36 1 0 1
+Enum.. 10 35 35 8 9
+Enum.. 9 26 13 6 4
+Enum.. 8 22 44 7 13
+Enum.. 7 9 1 0 1
+Enum.. 6 8 8 2 4
+Enum.. 5 4 2 1 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000709329
+Dfss 491/268
+Crosses 268/392
+Gos 392/21609
+Pre timer 0.000191768
+Rec timer 8.7134e-05
+MS timer 0.000130558
+O timer 1.8608e-05
+Grow timer 7.5168e-05
+IMS timer 0.00018672
+PMCS 43
+bt time 9.0029e-05
+bt -1 0
+Treewidth: 5
+d3graphs n28-3.gr
+PACE graph format detected
+TWPP reducing 28 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 21 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 21 35 3 5
+Advanced 21 35
+allminseps 0 21 0
+allminseps 10 46 0.217391
+allminseps 20 56 0.357143
+allminseps 30 84 0.357143
+allminseps 40 113 0.353982
+allminseps 50 130 0.384615
+allminseps 60 145 0.413793
+allminseps 70 177 0.39548
+allminseps 80 205 0.390244
+allminseps 90 240 0.375
+allminseps 100 265 0.377358
+allminseps 200 452 0.442478
+allminseps 300 566 0.530035
+allminseps 400 626 0.638978
+allminseps 500 640 0.78125
+allminseps 600 645 0.930233
+MSTIME 0.000670085 1597
+Enum minseps 645
+IMS timer 0.000674995
+Enum.. 20 645 18 171 141
+Enum.. 19 504 49 75 84
+Enum.. 18 420 36 85 206
+Enum.. 17 214 1 0 1
+Enum.. 16 213 34 33 71
+Enum.. 15 142 27 25 60
+Enum.. 14 82 1 0 1
+Enum.. 13 81 28 18 24
+Enum.. 12 57 1 0 1
+Enum.. 11 56 24 13 9
+Enum.. 10 47 103 16 21
+Enum.. 9 26 15 3 6
+Enum.. 8 20 28 7 8
+Enum.. 7 12 17 3 7
+Enum.. 6 5 1 0 1
+Enum.. 5 4 1 0 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 2 1 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00265032
+Dfss 1372/770
+Crosses 770/1268
+Gos 1268/416025
+Pre timer 0.00102274
+Rec timer 0.000285805
+MS timer 0.000746188
+O timer 7.9921e-05
+Grow timer 0.000249318
+IMS timer 0.000674995
+PMCS 77
+bt time 0.000163917
+bt -1 0
+Treewidth: 5
+d3graphs n28-4.gr
+PACE graph format detected
+TWPP reducing 28 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 20 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 20 34 3 5
+Advanced 20 34
+allminseps 0 20 0
+allminseps 10 46 0.217391
+allminseps 20 54 0.37037
+allminseps 30 88 0.340909
+allminseps 40 111 0.36036
+allminseps 50 127 0.393701
+allminseps 60 152 0.394737
+allminseps 70 178 0.393258
+allminseps 80 210 0.380952
+allminseps 90 238 0.378151
+allminseps 100 256 0.390625
+allminseps 200 407 0.4914
+allminseps 300 470 0.638298
+allminseps 400 492 0.813008
+MSTIME 0.000479768 1439
+Enum minseps 493
+IMS timer 0.000484537
+Enum.. 19 493 3 163 124
+Enum.. 18 369 11 60 37
+Enum.. 17 332 36 81 141
+Enum.. 16 191 82 53 89
+Enum.. 15 102 133 12 39
+Enum.. 14 63 1 0 1
+Enum.. 13 62 1 0 1
+Enum.. 12 61 165 14 36
+Enum.. 11 25 29 4 10
+Enum.. 10 15 1 0 1
+Enum.. 9 14 14 3 5
+Enum.. 8 8 1 0 1
+Enum.. 7 7 1 2 0
+Enum.. 6 7 1 0 1
+Enum.. 5 6 1 0 1
+Enum.. 4 5 7 2 3
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00214375
+Dfss 2038/1119
+Crosses 1119/1945
+Gos 1945/243049
+Pre timer 0.000746138
+Rec timer 0.000366026
+MS timer 0.000493637
+O timer 5.5003e-05
+Grow timer 0.000246568
+IMS timer 0.000484537
+PMCS 50
+bt time 0.000103343
+bt -1 0
+Treewidth: 5
+d3graphs n28-5.gr
+PACE graph format detected
+TWPP reducing 28 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 23 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 23 37 3 6
+Advanced 23 37
+allminseps 0 23 0
+allminseps 10 47 0.212766
+allminseps 20 60 0.333333
+allminseps 30 81 0.37037
+allminseps 40 106 0.377358
+allminseps 50 128 0.390625
+allminseps 60 137 0.437956
+allminseps 70 173 0.404624
+allminseps 80 203 0.394089
+allminseps 90 231 0.38961
+allminseps 100 258 0.387597
+allminseps 200 520 0.384615
+allminseps 300 740 0.405405
+allminseps 400 958 0.417537
+allminseps 500 1177 0.424809
+allminseps 600 1356 0.442478
+allminseps 700 1478 0.473613
+allminseps 800 1593 0.502197
+allminseps 900 1683 0.534759
+allminseps 1000 1733 0.577034
+MSTIME 0.00198864 7321
+Enum minseps 1839
+IMS timer 0.00199383
+Enum.. 22 1839 146 549 886
+Enum.. 21 953 153 192 327
+Enum.. 20 626 518 112 390
+Enum.. 19 235 23 51 24
+Enum.. 18 211 549 54 94
+Enum.. 17 117 164 13 29
+Enum.. 16 88 1 0 1
+Enum.. 15 87 196 25 34
+Enum.. 14 53 44 5 13
+Enum.. 13 40 1 0 1
+Enum.. 12 39 80 8 20
+Enum.. 11 18 2 1 1
+Enum.. 10 17 1 0 1
+Enum.. 9 16 1 0 1
+Enum.. 8 15 1 0 1
+Enum.. 7 14 24 4 7
+Enum.. 6 7 1 0 1
+Enum.. 5 6 1 0 1
+Enum.. 4 5 7 2 3
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00809741
+Dfss 11199/5391
+Crosses 5391/13385
+Gos 13385/3381921
+Pre timer 0.00337833
+Rec timer 0.0020931
+MS timer 0.00137353
+O timer 0.000177051
+Grow timer 0.00076395
+IMS timer 0.00199383
+PMCS 438
+bt time 0.00114139
+bt -1 0
+Treewidth: 6
+d3graphs n28-6.gr
+PACE graph format detected
+TWPP reducing 28 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 25 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 25 39 3 6
+Advanced 25 39
+allminseps 0 25 0
+allminseps 10 47 0.212766
+allminseps 20 62 0.322581
+allminseps 30 79 0.379747
+allminseps 40 100 0.4
+allminseps 50 120 0.416667
+allminseps 60 136 0.441176
+allminseps 70 158 0.443038
+allminseps 80 182 0.43956
+allminseps 90 212 0.424528
+allminseps 100 229 0.436681
+allminseps 200 457 0.437637
+allminseps 300 638 0.470219
+allminseps 400 864 0.462963
+allminseps 500 1056 0.473485
+allminseps 600 1176 0.510204
+allminseps 700 1316 0.531915
+allminseps 800 1419 0.563777
+allminseps 900 1520 0.592105
+allminseps 1000 1569 0.637349
+MSTIME 0.00170686 3659
+Enum minseps 1672
+IMS timer 0.00171192
+Enum.. 24 1672 34 275 107
+Enum.. 23 1565 81 364 285
+Enum.. 22 1280 455 291 611
+Enum.. 21 669 1681 90 353
+Enum.. 20 316 1 0 1
+Enum.. 19 315 1 0 1
+Enum.. 18 314 823 56 129
+Enum.. 17 185 782 31 113
+Enum.. 16 72 3 1 2
+Enum.. 15 70 1 0 1
+Enum.. 14 69 72 7 16
+Enum.. 13 53 35 8 10
+Enum.. 12 43 85 8 22
+Enum.. 11 21 1 0 1
+Enum.. 10 20 23 4 7
+Enum.. 9 12 1 0 1
+Enum.. 8 11 15 3 5
+Enum.. 7 6 2 1 1
+Enum.. 6 5 1 0 1
+Enum.. 5 4 1 0 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.0115324
+Dfss 20682/10518
+Crosses 10518/25938
+Gos 25938/2795584
+Pre timer 0.00273562
+Rec timer 0.00392486
+MS timer 0.00234159
+O timer 0.00030898
+Grow timer 0.00186562
+IMS timer 0.00171192
+PMCS 1072
+bt time 0.00370262
+bt 5 56
+Treewidth: 5
+d3graphs n28-7.gr
+PACE graph format detected
+TWPP reducing 28 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 22 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 22 36 3 5
+Advanced 22 36
+allminseps 0 22 0
+allminseps 10 43 0.232558
+allminseps 20 58 0.344828
+allminseps 30 81 0.37037
+allminseps 40 109 0.366972
+allminseps 50 128 0.390625
+allminseps 60 144 0.416667
+allminseps 70 178 0.393258
+allminseps 80 201 0.39801
+allminseps 90 226 0.39823
+allminseps 100 252 0.396825
+allminseps 200 465 0.430108
+allminseps 300 600 0.5
+allminseps 400 720 0.555556
+allminseps 500 802 0.623441
+allminseps 600 839 0.715137
+allminseps 700 854 0.819672
+allminseps 800 862 0.928074
+MSTIME 0.000849832 3203
+Enum minseps 862
+IMS timer 0.000854862
+Enum.. 21 862 10 245 407
+Enum.. 20 455 15 33 44
+Enum.. 19 411 71 83 126
+Enum.. 18 285 29 59 83
+Enum.. 17 202 1 0 1
+Enum.. 16 201 173 32 80
+Enum.. 15 120 221 23 72
+Enum.. 14 48 113 9 29
+Enum.. 13 18 1 0 1
+Enum.. 12 17 1 4 0
+Enum.. 11 17 18 3 8
+Enum.. 10 9 1 0 1
+Enum.. 9 8 0 0 0
+Enum.. 8 8 1 0 1
+Enum.. 7 7 1 0 1
+Enum.. 6 6 1 0 1
+Enum.. 5 5 3 1 2
+Enum.. 4 3 1 0 1
+Enum.. 3 2 2 1 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00340299
+Dfss 2961/1589
+Crosses 1589/2857
+Gos 2857/743044
+Pre timer 0.00129442
+Rec timer 0.000528139
+MS timer 0.000859181
+O timer 8.855e-05
+Grow timer 0.000361878
+IMS timer 0.000854862
+PMCS 133
+bt time 0.000305182
+bt -1 0
+Treewidth: 5
+d3graphs n28-8.gr
+PACE graph format detected
+TWPP reducing 28 0 1 0
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 28 42 3 5
+Advanced 28 42
+allminseps 0 28 0
+allminseps 10 53 0.188679
+allminseps 20 67 0.298507
+allminseps 30 77 0.38961
+allminseps 40 106 0.377358
+allminseps 50 130 0.384615
+allminseps 60 146 0.410959
+allminseps 70 154 0.454545
+allminseps 80 188 0.425532
+allminseps 90 216 0.416667
+allminseps 100 236 0.423729
+allminseps 200 475 0.421053
+allminseps 300 686 0.437318
+allminseps 400 892 0.44843
+allminseps 500 1082 0.462107
+allminseps 600 1275 0.470588
+allminseps 700 1404 0.498575
+allminseps 800 1558 0.513479
+allminseps 900 1738 0.517837
+allminseps 1000 1872 0.534188
+allminseps 2000 3118 0.641437
+allminseps 3000 3695 0.811908
+MSTIME 0.0047245 8419
+Enum minseps 3772
+IMS timer 0.00473245
+Enum.. 27 3772 20 1050 1767
+Enum.. 26 2005 166 313 994
+Enum.. 25 1011 38 76 158
+Enum.. 24 853 69 14 48
+Enum.. 23 805 1 0 1
+Enum.. 22 804 77 178 275
+Enum.. 21 527 303 72 359
+Enum.. 20 167 1 0 1
+Enum.. 19 166 1 0 1
+Enum.. 18 165 139 27 67
+Enum.. 17 97 109 8 30
+Enum.. 16 66 1 0 1
+Enum.. 15 65 1 0 1
+Enum.. 14 64 46 19 12
+Enum.. 13 52 75 10 17
+Enum.. 12 34 36 8 8
+Enum.. 11 26 45 6 12
+Enum.. 10 14 2 1 1
+Enum.. 9 13 1 0 1
+Enum.. 8 12 1 0 1
+Enum.. 7 11 1 0 1
+Enum.. 6 10 16 3 6
+Enum.. 5 4 1 0 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.0137007
+Dfss 6576/3306
+Crosses 3306/6251
+Gos 6251/14227984
+Pre timer 0.00728788
+Rec timer 0.00117851
+MS timer 0.003622
+O timer 0.000301405
+Grow timer 0.000886159
+IMS timer 0.00473245
+PMCS 224
+bt time 0.000526907
+bt -1 0
+Treewidth: 5
+d3graphs n28-9.gr
+PACE graph format detected
+TWPP reducing 28 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 22 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 22 36 3 6
+Advanced 22 36
+allminseps 0 22 0
+allminseps 10 49 0.204082
+allminseps 20 58 0.344828
+allminseps 30 87 0.344828
+allminseps 40 112 0.357143
+allminseps 50 129 0.387597
+allminseps 60 147 0.408163
+allminseps 70 181 0.38674
+allminseps 80 210 0.380952
+allminseps 90 241 0.373444
+allminseps 100 266 0.37594
+allminseps 200 497 0.402414
+allminseps 300 673 0.445765
+allminseps 400 850 0.470588
+allminseps 500 958 0.521921
+allminseps 600 1050 0.571429
+allminseps 700 1115 0.627803
+allminseps 800 1150 0.695652
+allminseps 900 1164 0.773196
+allminseps 1000 1175 0.851064
+MSTIME 0.00122873 3203
+Enum minseps 1178
+IMS timer 0.00123383
+Enum.. 21 1178 181 293 405
+Enum.. 20 773 206 134 296
+Enum.. 19 477 168 78 206
+Enum.. 18 271 1 0 1
+Enum.. 17 270 288 55 137
+Enum.. 16 133 218 16 35
+Enum.. 15 98 52 7 12
+Enum.. 14 86 180 21 35
+Enum.. 13 51 1 0 1
+Enum.. 12 50 63 9 15
+Enum.. 11 34 29 12 4
+Enum.. 10 30 62 8 17
+Enum.. 9 13 1 0 1
+Enum.. 8 12 8 2 4
+Enum.. 7 8 7 2 3
+Enum.. 6 5 1 0 1
+Enum.. 5 4 1 0 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00544944
+Dfss 7557/3902
+Crosses 3902/7886
+Gos 7886/1387684
+Pre timer 0.00191116
+Rec timer 0.00142752
+MS timer 0.00112375
+O timer 0.000133078
+Grow timer 0.000572682
+IMS timer 0.00123383
+PMCS 512
+bt time 0.00139059
+bt -1 0
+Treewidth: 6
+d3graphs n30-10.gr
+PACE graph format detected
+TWPP reducing 30 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 22 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 22 36 3 5
+Advanced 22 36
+allminseps 0 22 0
+allminseps 10 50 0.2
+allminseps 20 58 0.344828
+allminseps 30 85 0.352941
+allminseps 40 113 0.353982
+allminseps 50 136 0.367647
+allminseps 60 152 0.394737
+allminseps 70 186 0.376344
+allminseps 80 213 0.375587
+allminseps 90 238 0.378151
+allminseps 100 260 0.384615
+allminseps 200 485 0.412371
+allminseps 300 618 0.485437
+allminseps 400 723 0.55325
+allminseps 500 813 0.615006
+allminseps 600 861 0.696864
+allminseps 700 898 0.77951
+allminseps 800 907 0.882029
+allminseps 900 909 0.990099
+MSTIME 0.000925674 3203
+Enum minseps 909
+IMS timer 0.000930523
+Enum.. 21 909 27 246 370
+Enum.. 20 539 65 85 273
+Enum.. 19 266 3 1 2
+Enum.. 18 264 1 0 1
+Enum.. 17 263 45 52 86
+Enum.. 16 177 1 0 1
+Enum.. 15 176 28 35 67
+Enum.. 14 109 46 25 38
+Enum.. 13 71 57 18 19
+Enum.. 12 52 159 11 34
+Enum.. 11 18 1 0 1
+Enum.. 10 17 3 1 2
+Enum.. 9 15 1 0 1
+Enum.. 8 14 7 2 3
+Enum.. 7 10 1 0 1
+Enum.. 6 9 1 3 0
+Enum.. 5 9 16 3 6
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.0034377
+Dfss 2052/1121
+Crosses 1121/1759
+Gos 1759/826281
+Pre timer 0.00149128
+Rec timer 0.000380434
+MS timer 0.000909481
+O timer 8.6838e-05
+Grow timer 0.000297831
+IMS timer 0.000930523
+PMCS 91
+bt time 0.000207369
+bt -1 0
+Treewidth: 5
+d3graphs n30-1.gr
+PACE graph format detected
+TWPP reducing 30 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 23 0 1 3
+TWPP atoms 1
+cc {11, 13}
+Almostclique 3 23 13
+cc {11, 13}
+Almostclique 3 23 14
+TWPP reducing 23 0 1 3
+TWPP atoms 2
+TWPP reducing 16 0 2 3
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 10 0 2 3
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 14 0 1 4
+TWPP atoms 1
+TWPP finished 4 1
+TW HARDSOLVE 14 26 4 5
+Advanced 14 26
+allminseps 0 15 0
+allminseps 10 39 0.25641
+allminseps 20 53 0.377358
+allminseps 30 70 0.428571
+allminseps 40 78 0.512821
+allminseps 50 84 0.595238
+allminseps 60 86 0.697674
+allminseps 70 86 0.813953
+allminseps 80 86 0.930233
+MSTIME 0.000121037 277
+Enum minseps 86
+IMS timer 0.000125765
+Enum.. 13 86 3 33 19
+Enum.. 12 67 20 10 19
+Enum.. 11 48 9 16 9
+Enum.. 10 39 60 7 15
+Enum.. 9 24 23 7 7
+Enum.. 8 17 20 4 7
+Enum.. 7 10 1 0 1
+Enum.. 6 9 14 3 5
+Enum.. 5 4 3 1 2
+Enum.. 4 2 0 0 0
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000462968
+Dfss 276/176
+Crosses 176/299
+Gos 299/7396
+Pre timer 0.000101041
+Rec timer 5.6584e-05
+MS timer 8.0981e-05
+O timer 1.2683e-05
+Grow timer 5.0353e-05
+IMS timer 0.000125765
+PMCS 26
+bt time 5.0124e-05
+bt -1 0
+Treewidth: 5
+d3graphs n30-2.gr
+PACE graph format detected
+TWPP reducing 30 0 1 0
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 30 45 3 6
+Advanced 30 45
+allminseps 0 30 0
+allminseps 10 55 0.181818
+allminseps 20 70 0.285714
+allminseps 30 75 0.4
+allminseps 40 106 0.377358
+allminseps 50 129 0.387597
+allminseps 60 148 0.405405
+allminseps 70 162 0.432099
+allminseps 80 174 0.45977
+allminseps 90 201 0.447761
+allminseps 100 227 0.440529
+allminseps 200 431 0.464037
+allminseps 300 662 0.453172
+allminseps 400 842 0.475059
+allminseps 500 1101 0.454133
+allminseps 600 1291 0.464756
+allminseps 700 1471 0.475867
+allminseps 800 1678 0.476758
+allminseps 900 1898 0.474183
+allminseps 1000 2115 0.472813
+allminseps 2000 3871 0.516662
+allminseps 3000 5121 0.585823
+allminseps 4000 5997 0.667
+allminseps 5000 6393 0.782105
+allminseps 6000 6536 0.917993
+MSTIME 0.00852163 17929
+Enum minseps 6544
+IMS timer 0.00853456
+Enum.. 29 6544 523 1300 2900
+Enum.. 28 3644 1017 509 2398
+Enum.. 27 1246 17 3 7
+Enum.. 26 1239 1 0 1
+Enum.. 25 1238 109 256 233
+Enum.. 24 1005 1328 154 467
+Enum.. 23 538 1 0 1
+Enum.. 22 537 3 1 2
+Enum.. 21 535 1 0 1
+Enum.. 20 534 1646 87 333
+Enum.. 19 201 1 0 1
+Enum.. 18 200 186 33 32
+Enum.. 17 168 146 30 23
+Enum.. 16 145 480 26 78
+Enum.. 15 66 176 14 32
+Enum.. 14 34 1 0 1
+Enum.. 13 33 3 1 2
+Enum.. 12 31 1 0 1
+Enum.. 11 30 62 6 15
+Enum.. 10 15 17 3 7
+Enum.. 9 8 1 0 1
+Enum.. 8 7 1 0 1
+Enum.. 7 6 2 1 1
+Enum.. 6 5 1 0 1
+Enum.. 5 4 1 0 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.0328114
+Dfss 40701/20167
+Crosses 20167/48215
+Gos 48215/42823936
+Pre timer 0.0131738
+Rec timer 0.00764991
+MS timer 0.00656465
+O timer 0.000664012
+Grow timer 0.00388725
+IMS timer 0.00853456
+PMCS 1721
+bt time 0.00608229
+bt 5 70
+Treewidth: 5
+d3graphs n30-3.gr
+PACE graph format detected
+TWPP reducing 30 0 1 0
+TWPP atoms 3
+TWPP reducing 5 0 2 3
+TWPP reducing 25 0 1 3
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 18 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 18 30 3 6
+Advanced 18 30
+allminseps 0 18 0
+allminseps 10 41 0.243902
+allminseps 20 56 0.357143
+allminseps 30 86 0.348837
+allminseps 40 109 0.366972
+allminseps 50 127 0.393701
+allminseps 60 156 0.384615
+allminseps 70 180 0.388889
+allminseps 80 197 0.406091
+allminseps 90 217 0.414747
+allminseps 100 233 0.429185
+allminseps 200 316 0.632911
+allminseps 300 336 0.892857
+MSTIME 0.000679342 677
+Enum minseps 336
+IMS timer 0.000690464
+Enum.. 17 336 38 109 145
+Enum.. 16 191 61 45 48
+Enum.. 15 143 170 54 37
+Enum.. 14 105 286 24 46
+Enum.. 13 59 1 0 1
+Enum.. 12 58 96 14 20
+Enum.. 11 38 6 10 3
+Enum.. 10 35 64 7 18
+Enum.. 9 16 1 0 1
+Enum.. 8 15 1 0 1
+Enum.. 7 14 24 4 7
+Enum.. 6 7 1 0 1
+Enum.. 5 6 1 0 1
+Enum.. 4 5 7 2 3
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.0034731
+Dfss 2702/1345
+Crosses 1345/2944
+Gos 2944/112896
+Pre timer 0.000965809
+Rec timer 0.00098676
+MS timer 0.000558829
+O timer 8.569e-05
+Grow timer 0.000460944
+IMS timer 0.000690464
+PMCS 171
+bt time 0.000750316
+bt -1 0
+Treewidth: 6
+d3graphs n30-4.gr
+PACE graph format detected
+TWPP reducing 30 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 22 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 22 36 3 6
+Advanced 22 36
+allminseps 0 22 0
+allminseps 10 47 0.212766
+allminseps 20 57 0.350877
+allminseps 30 82 0.365854
+allminseps 40 111 0.36036
+allminseps 50 128 0.390625
+allminseps 60 142 0.422535
+allminseps 70 171 0.409357
+allminseps 80 198 0.40404
+allminseps 90 226 0.39823
+allminseps 100 248 0.403226
+allminseps 200 487 0.410678
+allminseps 300 693 0.4329
+allminseps 400 863 0.463499
+allminseps 500 1014 0.493097
+allminseps 600 1096 0.547445
+allminseps 700 1148 0.609756
+allminseps 800 1166 0.686106
+allminseps 900 1207 0.74565
+allminseps 1000 1213 0.824402
+MSTIME 0.0012519 3203
+Enum minseps 1214
+IMS timer 0.00125681
+Enum.. 21 1214 77 411 573
+Enum.. 20 641 279 76 175
+Enum.. 19 466 392 105 176
+Enum.. 18 290 55 72 53
+Enum.. 17 237 391 61 64
+Enum.. 16 173 664 34 101
+Enum.. 15 72 1 0 1
+Enum.. 14 71 3 1 2
+Enum.. 13 69 27 4 9
+Enum.. 12 60 90 14 20
+Enum.. 11 40 1 0 1
+Enum.. 10 39 72 13 16
+Enum.. 9 23 51 5 16
+Enum.. 8 7 1 0 1
+Enum.. 7 6 1 0 1
+Enum.. 6 5 1 0 1
+Enum.. 5 4 2 1 1
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00608453
+Dfss 9455/4782
+Crosses 4782/10525
+Gos 10525/1473796
+Pre timer 0.0019709
+Rec timer 0.00177809
+MS timer 0.00104726
+O timer 0.000142909
+Grow timer 0.000844661
+IMS timer 0.00125681
+PMCS 416
+bt time 0.00105755
+bt -1 0
+Treewidth: 6
+d3graphs n30-5.gr
+PACE graph format detected
+TWPP reducing 30 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 27 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 27 42 3 6
+Advanced 27 42
+allminseps 0 27 0
+allminseps 10 53 0.188679
+allminseps 20 67 0.298507
+allminseps 30 79 0.379747
+allminseps 40 110 0.363636
+allminseps 50 133 0.37594
+allminseps 60 149 0.402685
+allminseps 70 162 0.432099
+allminseps 80 194 0.412371
+allminseps 90 221 0.40724
+allminseps 100 241 0.414938
+allminseps 200 485 0.412371
+allminseps 300 718 0.417827
+allminseps 400 917 0.436205
+allminseps 500 1142 0.437828
+allminseps 600 1383 0.433839
+allminseps 700 1539 0.454841
+allminseps 800 1677 0.477042
+allminseps 900 1841 0.488865
+allminseps 1000 2031 0.492368
+allminseps 2000 3188 0.627353
+allminseps 3000 3618 0.829187
+MSTIME 0.00438252 8419
+Enum minseps 3653
+IMS timer 0.00438747
+Enum.. 26 3653 149 882 933
+Enum.. 25 2720 579 536 1533
+Enum.. 24 1187 607 118 512
+Enum.. 23 675 1 0 1
+Enum.. 22 674 238 95 249
+Enum.. 21 425 662 52 305
+Enum.. 20 120 8 2 4
+Enum.. 19 116 1 0 1
+Enum.. 18 115 1 0 1
+Enum.. 17 114 3 1 2
+Enum.. 16 112 1 0 1
+Enum.. 15 111 106 15 29
+Enum.. 14 81 1 0 1
+Enum.. 13 80 141 25 26
+Enum.. 12 54 77 14 14
+Enum.. 11 40 67 10 18
+Enum.. 10 22 21 6 6
+Enum.. 9 16 1 0 1
+Enum.. 8 15 17 3 7
+Enum.. 7 8 1 0 1
+Enum.. 6 7 1 0 1
+Enum.. 5 6 1 0 1
+Enum.. 4 5 7 2 3
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.0162473
+Dfss 20922/10210
+Crosses 10210/21013
+Gos 21013/13344409
+Pre timer 0.00695226
+Rec timer 0.00372215
+MS timer 0.0034428
+O timer 0.00044957
+Grow timer 0.0012318
+IMS timer 0.00438747
+PMCS 1030
+bt time 0.00296024
+bt -1 0
+Treewidth: 6
+d3graphs n30-6.gr
+PACE graph format detected
+TWPP reducing 30 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 21 0 1 3
+TWPP atoms 1
+cc {0, 10, 16}
+Almostclique 4 21 12
+TWPP reducing 21 0 1 4
+TWPP atoms 2
+TWPP reducing 16 0 2 4
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 9 0 2 4
+TWPP reducing 12 0 1 4
+TWPP atoms 1
+TWPP finished 4 0
+Treewidth: 4
+d3graphs n30-7.gr
+PACE graph format detected
+TWPP reducing 30 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 23 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 23 38 3 6
+Advanced 23 38
+allminseps 0 23 0
+allminseps 10 48 0.208333
+allminseps 20 60 0.333333
+allminseps 30 81 0.37037
+allminseps 40 108 0.37037
+allminseps 50 128 0.390625
+allminseps 60 138 0.434783
+allminseps 70 159 0.440252
+allminseps 80 188 0.425532
+allminseps 90 212 0.424528
+allminseps 100 231 0.4329
+allminseps 200 434 0.460829
+allminseps 300 568 0.528169
+allminseps 400 704 0.568182
+allminseps 500 788 0.634518
+allminseps 600 816 0.735294
+allminseps 700 835 0.838323
+allminseps 800 839 0.953516
+MSTIME 0.000875931 1823
+Enum minseps 839
+IMS timer 0.00088101
+Enum.. 22 839 235 212 540
+Enum.. 21 299 183 53 45
+Enum.. 20 254 321 37 88
+Enum.. 19 166 598 22 119
+Enum.. 18 47 3 1 2
+Enum.. 17 45 1 0 1
+Enum.. 16 44 7 2 3
+Enum.. 15 40 1 0 1
+Enum.. 14 39 1 5 0
+Enum.. 13 39 50 5 16
+Enum.. 12 23 1 0 1
+Enum.. 11 22 0 6 0
+Enum.. 10 22 37 6 11
+Enum.. 9 10 1 1 0
+Enum.. 8 10 3 1 2
+Enum.. 7 8 1 0 1
+Enum.. 6 7 1 0 1
+Enum.. 5 6 7 2 3
+Enum.. 4 3 1 0 1
+Enum.. 3 2 1 0 1
+Enum.. 2 1 1 0 1
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00396265
+Dfss 6207/3158
+Crosses 3158/7311
+Gos 7311/703921
+Pre timer 0.00134577
+Rec timer 0.00115431
+MS timer 0.000658601
+O timer 0.00010694
+Grow timer 0.000406673
+IMS timer 0.00088101
+PMCS 591
+bt time 0.0018159
+bt 5 46
+Treewidth: 5
+d3graphs n30-8.gr
+PACE graph format detected
+TWPP reducing 30 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 17 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 17 31 3 5
+Advanced 17 31
+allminseps 0 17 0
+allminseps 10 43 0.232558
+allminseps 20 58 0.344828
+allminseps 30 84 0.357143
+allminseps 40 105 0.380952
+allminseps 50 120 0.416667
+allminseps 60 142 0.422535
+allminseps 70 156 0.448718
+allminseps 80 165 0.484848
+allminseps 90 177 0.508475
+allminseps 100 189 0.529101
+allminseps 200 204 0.980392
+MSTIME 0.00021891 673
+Enum minseps 204
+IMS timer 0.000225362
+Enum.. 16 204 25 67 80
+Enum.. 15 124 64 23 76
+Enum.. 14 48 3 1 2
+Enum.. 13 46 1 0 1
+Enum.. 12 45 33 10 22
+Enum.. 11 23 8 2 4
+Enum.. 10 19 21 4 7
+Enum.. 9 12 10 3 4
+Enum.. 8 8 1 0 1
+Enum.. 7 7 8 2 4
+Enum.. 6 3 1 0 1
+Enum.. 5 2 1 0 1
+Enum.. 4 1 0 0 0
+Enum.. 3 1 1 0 1
+Enum.. 2 0 0 0 0
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.000816029
+Dfss 587/371
+Crosses 371/614
+Gos 614/41616
+Pre timer 0.000257273
+Rec timer 0.000118761
+MS timer 0.000154872
+O timer 2.593e-05
+Grow timer 5.9421e-05
+IMS timer 0.000225362
+PMCS 80
+bt time 0.000185848
+bt -1 0
+Treewidth: 5
+d3graphs n30-9.gr
+PACE graph format detected
+TWPP reducing 30 0 1 0
+TWPP atoms 1
+TWPP GreedyElim success
+TWPP reducing 21 0 1 3
+TWPP atoms 1
+TWPP finished 3 1
+TW HARDSOLVE 21 36 3 6
+Advanced 21 36
+allminseps 0 21 0
+allminseps 10 45 0.222222
+allminseps 20 57 0.350877
+allminseps 30 80 0.375
+allminseps 40 107 0.373832
+allminseps 50 125 0.4
+allminseps 60 144 0.416667
+allminseps 70 170 0.411765
+allminseps 80 191 0.418848
+allminseps 90 219 0.410959
+allminseps 100 243 0.411523
+allminseps 200 396 0.505051
+allminseps 300 480 0.625
+allminseps 400 508 0.787402
+allminseps 500 508 0.984252
+MSTIME 0.000532788 1597
+Enum minseps 508
+IMS timer 0.000538188
+Enum.. 20 508 93 127 190
+Enum.. 19 318 49 66 46
+Enum.. 18 272 215 54 133
+Enum.. 17 139 1 0 1
+Enum.. 16 138 235 21 68
+Enum.. 15 70 1 0 1
+Enum.. 14 69 37 20 5
+Enum.. 13 64 57 14 16
+Enum.. 12 48 106 10 23
+Enum.. 11 25 41 5 11
+Enum.. 10 14 1 0 1
+Enum.. 9 13 12 3 5
+Enum.. 8 8 1 0 1
+Enum.. 7 7 5 2 2
+Enum.. 6 5 4 1 3
+Enum.. 5 2 0 0 0
+Enum.. 4 2 1 0 1
+Enum.. 3 1 1 0 1
+Enum.. 2 0 0 0 0
+Enum.. 1 0 0 0 0
+Enum.. 0 0 1 0 0
+PMC timer 0.00264761
+Dfss 3330/1757
+Crosses 1757/3432
+Gos 3432/258064
+Pre timer 0.000793516
+Rec timer 0.000647481
+MS timer 0.000548063
+O timer 7.4121e-05
+Grow timer 0.000332101
+IMS timer 0.000538188
+PMCS 310
+bt time 0.000886991
+bt 5 39
+Treewidth: 5
